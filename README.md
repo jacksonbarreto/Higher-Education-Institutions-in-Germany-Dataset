@@ -7,10 +7,10 @@ This dataset was compiled in response to a cybersecurity investigation of German
 
 The data includes the following fields for each institution:
 
-- Number: A unique identifier assigned to each institution.
+- Id: A unique identifier assigned to each institution.
+- Region: The federal state in which the institution is located.
 - Name: The full name of the institution.
 - Category: Indicates whether the institution is public or private.
-- Region: The federal state in which the institution is located.
 - Url: The website of the institution.
 
 ## Methodology
