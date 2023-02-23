@@ -1,0 +1,808 @@
+"Sortierschl.","Region-sortkey","Text","Träger-
+schaft"
+10105000,1,"U Freiburg i.Br.",2
+10105100,1,"U Freiburg i.Br. (ohne Klinikum)",2
+10105990,1,"U Freiburg i.Br. (Klinikum)",2
+10110000,1,"U Heidelberg in Heidelberg",2
+10110100,1,"U Heidelberg in Heidelberg (ohne Klinikum)",2
+10110200,1,"U Heidelberg in Mannheim",2
+10110980,1,"U Heidelberg in Mannheim (Klinikum)",2
+10110990,1,"U Heidelberg in Heidelberg (Klinikum)",2
+10115000,1,"U Hohenheim",2
+10120000,1,"Karlsruher Institut für Technologie (KIT) - Bereich Hochschule (U)",2
+10125000,1,"U Konstanz",2
+10130000,1,"U Mannheim",2
+10135000,1,"U Stuttgart",2
+10140000,1,"U Tübingen",2
+10140100,1,"U Tübingen (ohne Klinikum)",2
+10140990,1,"U Tübingen (Klinikum)",2
+10145000,1,"U Ulm",2
+10145100,1,"U Ulm (ohne Klinikum)",2
+10145990,1,"U Ulm (Klinikum)",2
+10148000,1,"TU München in Heilbronn",2
+10150000,1,"Wissenschaftliche H Bierbronnen (Priv. U)",4
+10160000,1,"Zeppelin Universität Friedrichshafen (Priv. U)",4
+10170000,1,"Freie Hochschule Stuttgart, Seminar für Waldorfpädagogik (Priv. U)",4
+10175000,1,"H für jüdische Studien Heidelberg (Kirchl. U)",5
+10205000,2,"U Augsburg",2
+10205800,2,"U Augsburg (ohne Klinikum)",2
+10205990,2,"U Augsburg (Klinikum)",2
+10210000,2,"U Bamberg",2
+10215000,2,"U Bayreuth",2
+10220100,2,"Kath. U Eichstätt-Ingolstadt in Eichstätt (Kirchl. U)",5
+10220200,2,"Kath. U Eichstätt-Ingolstadt in Ingolstadt (Kirchl. U)",5
+10225100,2,"U Erlangen-Nürnberg in Erlangen",2
+10225200,2,"U Erlangen-Nürnberg in Nürnberg",2
+10225990,2,"U Erlangen-Nürnberg in Erlangen (Klinikum)",2
+10227000,2,"Technische Universität Nürnberg",2
+10230000,2,"U München",2
+10230200,2,"U München in München",2
+10230300,2,"U München im Landkreis München",2
+10230800,2,"U München (ohne Klinikum)",2
+10230990,2,"U München (Klinikum)",2
+10235000,2,"TU München",2
+10235100,2,"TU München in München",2
+10235200,2,"TU München in Weihenstephan",2
+10235300,2,"TU München in Garching",2
+10235400,2,"TU München in Straubing",2
+10235990,2,"TU München in München (Klinikum)",2
+10240001,2,"U der Bundeswehr München (FB Universitätsstudiengänge)",1
+10240002,2,"U der Bundeswehr München (FB Fachhochschulstudiengänge)",1
+10245000,2,"H für Politik München (U)",2
+10250000,2,"U Passau",2
+10255000,2,"U Regensburg",2
+10255100,2,"U Regensburg (ohne Klinikum)",2
+10255990,2,"U Regensburg (Klinikum)",2
+10260000,2,"U Würzburg",2
+10260100,2,"U Würzburg (ohne Klinikum)",2
+10260990,2,"U Würzburg (Klinikum)",2
+10305000,3,"FU Berlin",2
+10310000,3,"TU Berlin",2
+10315000,3,"Charité - Universitätsmedizin Berlin",2
+10320000,3,"Humboldt-Universität Berlin",2
+10325000,3,"ESCP Europe Wirtschaftshochschule Berlin (Priv. U)",4
+10330000,3,"Europ. School of Management and Technology, Berlin (Priv. U)",4
+10335000,3,"Hertie School of Governance Berlin (Priv. U)",4
+10340000,3,"Steinbeis-H Berlin (Priv. U)",4
+10350000,3,"International Psychoanalytic University Berlin (Priv. U)",4
+10355000,3,"Psychologische Hochschule Berlin (Priv. U)",4
+10360000,3,"Bard College Berlin, A Liberal Arts University (Priv. U)",4
+10365000,3,"German International University Berlin (Priv. U)",4
+10407100,4,"Brandenburgische TU Cottbus-Senftenberg in Cottbus",2
+10407200,4,"Brandenburgische TU Cottbus-Senftenberg in Senftenberg",2
+10410000,4,"Europa-U Viadrina Frankfurt (Oder)",2
+10415000,4,"U Potsdam",2
+10420000,4,"Medizinische Hochschule Brandenburg in Neuruppin (Priv. U)",4
+10425000,4,"Filmuniversität Babelsberg",2
+10430000,4,"HMU Health and Medical University Potsdam (Priv. U)",4
+10505000,5,"U Bremen",2
+10510000,5,"Jacobs University Bremen (Priv. U)",4
+10605000,6,"U Hamburg",2
+10605100,6,"U Hamburg (ohne Klinikum)",2
+10605200,6,"Staats- und Universitätsbibliothek Hamburg",2
+10605990,6,"U Hamburg (Klinikum)",2
+10610000,6,"Technische Universität Hamburg",2
+10615000,6,"Hafencity Universität Hamburg",2
+10620000,6,"Helmut-Schmidt-Universität Hamburg",1
+10625000,6,"Bucerius Law School Hamburg (Priv. U)",4
+10630000,6,"KLU Kühne Logistics University (Priv. U)",4
+10705000,7,"TU Darmstadt",2
+10710000,7,"U Frankfurt a.M.",2
+10710100,7,"U Frankfurt a.M. (ohne Klinikum)",2
+10710990,7,"U Frankfurt a.M. (Klinikum)",2
+10715000,7,"U Gießen",2
+10720980,7,"Universitätsklinikum Gießen und Marburg, Abt. Gießen (Priv. H)",4
+10720990,7,"Universitätsklinikum Gießen und Marburg, Abt. Marburg (Priv. H)",4
+10725101,7,"U Kassel in Kassel (ohne Kunsthochschule)",2
+10725102,7,"U Kassel in Kassel (Kunsthochschule)",2
+10725103,7,"U Kassel in Kassel (Intern. Management School)",2
+10725200,7,"U Kassel in Witzenhausen",2
+10730000,7,"U Marburg",2
+10735000,7,"Frankfurt School of Finance & Management-HfB (Priv. U)",4
+10740100,7,"EBS U für Wirtschaft und Recht in Oestrich-Winkel (Priv. U)",4
+10740200,7,"EBS U für Wirtschaft und Recht in Wiesbaden (Priv. U)",4
+10805000,8,"U Greifswald",2
+10805100,8,"U Greifswald (ohne Klinikum)",2
+10805990,8,"U Greifswald (Klinikum)",2
+10810000,8,"U Rostock",2
+10810100,8,"U Rostock (ohne Klinikum)",2
+10810990,8,"U Rostock (Klinikum)",2
+10905000,9,"TU Braunschweig",2
+10910000,9,"TU Clausthal",2
+10915000,9,"U Göttingen",2
+10915100,9,"U Göttingen (ohne Klinikum)",2
+10915990,9,"U Göttingen (Klinikum)",2
+10920000,9,"U Hannover",2
+10925000,9,"Medizinische H Hannover (U)",2
+10925100,9,"Medizinische H Hannover (ohne Klinikum)",2
+10925990,9,"Medizinische H Hannover (Klinikum)",2
+10930000,9,"Tierärztliche H Hannover (U)",2
+10935000,9,"U Hildesheim",2
+10940100,9,"U Lüneburg",2
+10945000,9,"U Oldenburg",2
+10950000,9,"U Osnabrück",2
+10955000,9,"Universität Vechta",2
+11005000,10,"TH Aachen (U)",2
+11005100,10,"TH Aachen (ohne Klinikum)",2
+11005990,10,"TH Aachen (Klinikum)",2
+11010000,10,"U Bielefeld",2
+11015000,10,"U Bochum",2
+11015100,10,"U Bochum (ohne Klinikum)",2
+11015990,10,"U Bochum (Klinikum)",2
+11020000,10,"U Bonn",2
+11020100,10,"U Bonn (ohne Klinikum)",2
+11020990,10,"U Bonn (Klinikum)",2
+11025000,10,"TU Dortmund",2
+11030000,10,"U Düsseldorf",2
+11030100,10,"U Düsseldorf (ohne Klinikum)",2
+11030990,10,"U Düsseldorf (Klinikum)",2
+11034000,10,"U Duisburg-Essen in Essen",2
+11034100,10,"U Duisburg-Essen in Essen (ohne Klinikum)",2
+11034200,10,"U Duisburg-Essen in Duisburg",2
+11034990,10,"U Duisburg-Essen in Essen (Klinikum)",2
+11040000,10,"Fernuniversität Hagen",2
+11045000,10,"U Köln",2
+11045100,10,"U Köln (ohne Klinikum)",2
+11045990,10,"U Köln (Klinikum)",2
+11050000,10,"Deutsche Sporthochschule Köln (U)",2
+11055000,10,"U Münster",2
+11055100,10,"U Münster (ohne Klinikum)",2
+11055990,10,"U Münster (Klinikum)",2
+11060000,10,"U Paderborn",2
+11065000,10,"U Siegen",2
+11070000,10,"U Wuppertal",2
+11075000,10,"Universität Witten-Herdecke (Priv. U)",4
+11075100,10,"Universität Witten-Herdecke (Priv. U) (ohne Klinikum)",4
+11075990,10,"Universität Witten-Herdecke (Priv. U) (Klinikum)",4
+11080000,10,"Deutsche Hochschule der Polizei, Münster (U) ",2
+11105000,11,"TU Kaiserslautern",2
+11110100,11,"U Koblenz-Landau in Mainz, Präsidialamt",2
+11110200,11,"U Koblenz-Landau in Koblenz",2
+11110300,11,"U Koblenz-Landau in Landau",2
+11115100,11,"U Mainz in Germersheim",2
+11115200,11,"U Mainz in Mainz",2
+11120990,11,"Universitätsmedizin der U Mainz",2
+11125000,11,"Deutsche Universität für Verwaltungswissenschaften Speyer",2
+11130000,11,"U Trier",2
+11135000,11,"Wissenschaftliche H für Unternehmensführung, Vallendar (Priv. U)",4
+11205000,12,"U des Saarlandes Saarbrücken in Saarbrücken",2
+11205100,12,"U des Saarlandes Saarbrücken in Saarbrücken",2
+11205980,12,"U des Saarlandes Saarbrücken in Homburg/Saar (Med. Fakultät)",2
+11205990,12,"U des Saarlandes Saarbrücken in Homburg/Saar (Klinikum-LKH)",2
+11305000,13,"TU Chemnitz",2
+11310100,13,"TU Dresden in Dresden",2
+11310200,13,"TU Dresden in Tharandt",2
+11310300,13,"TU Dresden in Zittau (IHI)",2
+11310500,13,"TU Dresden (ohne Klinikum)",2
+11310990,13,"TU Dresden (Klinikum)",2
+11315990,13,"TU Dresden (Med. Fakultät)",2
+11320000,13,"TU Bergakademie Freiberg",2
+11325000,13,"U Leipzig",2
+11325100,13,"U Leipzig (ohne Klinikum)",2
+11325990,13,"U Leipzig (Klinikum)",2
+11330990,13,"U Leipzig (Med. Fakultät)",2
+11340000,13,"DIU-Dresden International University (Priv. U)",4
+11345000,13,"HHL Leipzig Graduate School of Management (Priv. U)",4
+11405100,14,"U Halle in Halle",2
+11405200,14,"U Halle in Merseburg",2
+11405990,14,"U Halle in Halle (Klinikum)",2
+11410000,14,"U Magdeburg",2
+11410100,14,"U Magdeburg (ohne Klinikum)",2
+11410990,14,"U Magdeburg (Klinikum)",2
+11505000,15,"EUF Europa-Universität Flensburg",2
+11510000,15,"U Kiel",2
+11515000,15,"U Lübeck",2
+11530990,15,"Universitätsklinikum Schleswig-Holstein",2
+11605000,16,"U Erfurt",2
+11610000,16,"TU Ilmenau",2
+11615000,16,"U Jena",2
+11615100,16,"U Jena (ohne Klinikum)",2
+11615990,16,"U Jena (Klinikum)",2
+11620000,16,"Bauhaus-U Weimar",2
+30105000,1,"PH Freiburg i.Br.",2
+30110000,1,"PH Heidelberg",2
+30115000,1,"PH Karlsruhe",2
+30120100,1,"PH Ludwigsburg",2
+30125000,1,"PH Schwäbisch Gmünd",2
+30130000,1,"PH Weingarten",2
+40210000,2,"H für Philosophie München (Kirchl.-Theol. H)",5
+40215000,2,"Augustana-H Neuendettelsau (Kirchl.-Theol. H)",5
+40705000,7,"Phil.-Theol. H Frankfurt a.M. (Kirchl.-Theol. H)",5
+40710000,7,"Theol. Fakultät Fulda (Kirchl.-Theol. H)",5
+40715000,7,"Luth.-Theologische H Oberursel (Kirchl.-Theol. H) ",5
+40717000,7,"Theologische H Ewersbach in Dietzhölztal (Priv.-Theol. H)",4
+40720000,7,"Freie Theologische H (FTH) Gießen (Priv.-Theol. H) ",4
+40725000,7,"Evangelische Hochschule Tabor in Marburg (Priv.-Theol. H)",4
+41012000,10,"H für Kirchenmusik Herford-Witten (Kirchl.-Theol. H)",5
+41015000,10,"Phil.-Theol. H Münster (Kirchl.-Theol. H)",5
+41020000,10,"Theol. Fakultät Paderborn (Kirchl.-Theol. H)",5
+41025000,10,"Kölner H für Katholische Theologie (Kirchl.-Theol. H)",5
+41035100,10," Kirchliche Hochschule Wuppertal / Bethel in Bethel (Kirchl.-Theol. H) ",5
+41035200,10,"Kirchliche Hochschule Wuppertal / Bethel in Wuppertal (Kirchl.-Theol. H)",5
+41105000,11,"Theol. Fakultät Trier (Kirchl.-Theol. H)",5
+41110000,11,"Theol. H Vallendar (Kirchl.-Theol. H)",5
+41405000,14,"Theol. H Friedensau (Kirchl.-Theol. H)",5
+50105000,1,"Staatl. H für Musik Freiburg i.Br. (Kunst-H)",2
+50110000,1,"Staatl. Akademie der Bildenden Künste Karlsruhe (Kunst-H)",2
+50115000,1,"Staatl. H für Gestaltung Karlsruhe (Kunst-H)",2
+50120000,1,"Staatl. H für Musik Karlsruhe (Kunst-H)",2
+50125000,1,"Staatl. H für Musik und Darstellende Kunst Mannheim (Kunst-H)",2
+50130000,1,"Staatl. Akademie der Bildenden Künste Stuttgart (Kunst-H)",2
+50135000,1,"Staatl. H für Musik und Darstellende Kunst Stuttgart (Kunst-H)",2
+50140000,1,"Staatl. H für Musik Trossingen (Kunst-H)",2
+50205000,2,"Akademie der Bildenden Künste München (Kunst-H)",2
+50210000,2,"H für Fernsehen und Film München (Kunst-H)",2
+50215000,2,"H für Musik und Theater München (Kunst-H)",2
+50220000,2,"Akademie der Bildenden Künste Nürnberg (Kunst-H)",2
+50225200,2,"H für Musik Nürnberg (Kunst-H)",2
+50230000,2,"H für Musik Würzburg (Kunst-H)",2
+50235000,2,"H für evang. Kirchenmusik Bayreuth (Kirchl. Kunst-H)",5
+50240000,2,"H für kath. Kirchenmusik und Musikpädagogik, Regensburg (Kirchl. Kunst-H)",5
+50305000,3,"U der Künste Berlin (Kunst-H)",2
+50310000,3,"Weißensee Kunsthochschule Berlin (Kunst-H)",2
+50315000,3,"H für Musik Berlin (Kunst-H)",2
+50320000,3,"H für Schauspielkunst Berlin (Kunst-H)",2
+50330000,3,"Barenboim-Said Akademie Berlin (Priv. Kunst-H)",4
+50505000,5,"H für Künste Bremen (Kunst-H)",2
+50605000,6,"H für Bildende Künste Hamburg (Kunst-H)",2
+50610000,6,"H für Musik und Theater Hamburg (Kunst-H)",2
+50705000,7,"H für Bildende Künste - Städelschule Frankfurt a.M. (Kunst-H)",2
+50710000,7,"H für Musik und Darstellende Kunst Frankfurt a.M. (Kunst-H)",2
+50715000,7,"H für Gestaltung Offenbach (Kunst-H)",2
+50805000,8,"H für Musik und Theater Rostock (Kunst-H)",2
+50905000,9,"H für Bildende Künste Braunschweig (Kunst-H)",2
+50910000,9,"Hochschule für Musik, Theater und Medien Hannover (Kunst-H)",2
+51005000,10,"H für Musik Detmold (Kunst-H)",2
+51010000,10,"Kunstakademie Düsseldorf (Kunst-H)",2
+51015000,10,"Robert-Schumann-H Düsseldorf (Kunst-H)",2
+51020100,10,"Folkwang U der Künste Essen in Bochum (Kunst-H)",2
+51020200,10,"Folkwang U der Künste Essen in Dortmund (Kunst-H)",2
+51020300,10,"Folkwang U der Künste Essen in Duisburg (Kunst-H)",2
+51020400,10,"Folkwang U der Künste Essen in Essen (Kunst-H)",2
+51025000,10,"KH für Medien Köln (Kunst-H)",2
+51030100,10,"H für Musik und Tanz Köln in Aachen (Kunst-H)",2
+51030200,10,"H für Musik und Tanz Köln in Köln (Kunst-H)",2
+51030300,10,"H für Musik und Tanz Köln in Wuppertal (Kunst-H)",2
+51035000,10,"Kunstakademie Münster (Kunst-H)",2
+51040000,10,"Alanus H Alfter (Priv. Kunst-H)",4
+51045000,10,"Hochschule der bildenden Künste (HBK) Essen  (Priv. Kunst-H)",4
+51205000,12,"H der Bildenden Künste Saarbrücken (Kunst-H)",2
+51210000,12,"Hochschule für Musik Saarbrücken (Kunst-H)",2
+51305000,13,"H für Bildende Künste Dresden (Kunst-H)",2
+51310000,13,"H für Kirchenmusik der Evang.-Luth. Landeskirche Sachsens, Dresden (Kirchl. Kunst-H)",5
+51315000,13,"H für Musik Dresden (Kunst-H)",2
+51320000,13,"Palucca Hochschule für Tanz Dresden (Kunst-H)",2
+51325000,13,"H für Graphik und Buchkunst Leipzig (Kunst-H)",2
+51330000,13,"H für Musik und Theater Leipzig (Kunst-H)",2
+51405000,14,"Burg Giebichenstein Kunsthochschule Halle (Kunst-H)",2
+51410000,14,"Evang. H für Kirchenmusik Halle (Kirchl. Kunst-H)",5
+51505000,15,"Muthesius Kunsthochschule Kiel (Kunst-H)",2
+51510000,15,"Musikhochschule Lübeck (Kunst-H)",2
+51605000,16,"H für Musik Weimar (Kunst-H)",2
+60103100,1,"Hochschule Aalen - Technik und Wirtschaft in Aalen (FH)",2
+60103200,1,"Hochschule Aalen - Technik und Wirtschaft in Schwäbisch Gmünd (FH)",2
+60106100,1,"H Albstadt-Sigmaringen in Albstadt (FH)",2
+60106200,1,"H Albstadt-Sigmaringen in Sigmaringen (FH)",2
+60109000,1,"H Biberach a. d. Riss (FH)",2
+60115100,1,"H Esslingen in Esslingen (FH)",2
+60115200,1,"H Esslingen in Göppingen (FH)",2
+60118100,1,"H Furtwangen in Furtwangen (FH)",2
+60118200,1,"H Furtwangen in Villingen-Schwenningen (FH)",2
+60118300,1,"H Furtwangen in Tuttlingen (FH)",2
+60121100,1,"H Heilbronn in Heilbronn (FH)",2
+60121200,1,"H Heilbronn in Künzelsau (FH)",2
+60121300,1,"H Heilbronn in Schwäbisch Hall (FH)",2
+60124000,1,"H Karlsruhe (FH)",2
+60127000,1,"H Konstanz (FH)",2
+60129000,1,"Hochschule der Bundesagentur für Arbeit in Mannheim (FH)",1
+60132000,1,"H Mannheim (FH)",2
+60134100,1,"H Nürtingen in Geislingen (FH)",2
+60134200,1,"H Nürtingen in Nürtingen (FH)",2
+60137000,1,"H Offenburg (FH)",2
+60140000,1,"H Pforzheim (FH)",2
+60142050,1,"Duale Hochschule Baden-Württemberg Mosbach, Campus Bad Mergentheim",2
+60142100,1,"Duale Hochschule Baden-Württemberg Ravensburg, Campus Friedrichshafen",2
+60142150,1,"Duale Hochschule Baden-Württemberg Heidenheim",2
+60142170,1,"Duale Hochschule Baden-Württemberg Heilbronn",2
+60142171,1,"Duale Hochschule Baden-Württemberg CAS, Heilbronn",2
+60142200,1,"Duale Hochschule Baden-Württemberg Stuttgart, Campus Horb",2
+60142250,1,"Duale Hochschule Baden-Württemberg Karlsruhe",2
+60142300,1,"Duale Hochschule Baden-Württemberg Lörrach",2
+60142350,1,"Duale Hochschule Baden-Württemberg Mannheim",2
+60142400,1,"Duale Hochschule Baden-Württemberg Mosbach",2
+60142450,1,"Duale Hochschule Baden-Württemberg Ravensburg",2
+60142501,1,"Duale Hochschule Baden-Württemberg Stuttgart",2
+60142503,1,"Duale Hochschule Baden-Württemberg Präsidium, Stuttgart ",2
+60142550,1,"Duale Hochschule Baden-Württemberg Villingen-Schwenningen",2
+60143000,1,"H Ravensburg-Weingarten (FH)",2
+60146000,1,"H für Technik und Wirtschaft Reutlingen (FH)",2
+60149000,1,"H für Forstwirtschaft Rottenburg (FH)",2
+60152000,1,"H für Gestaltung Schwäbisch Gmünd (FH)",2
+60155000,1,"FH Stuttgart, H der Medien",2
+60158000,1,"Hochschule für Technik Stuttgart (FH)",2
+60161000,1,"Technische Hochschule Ulm (FH)",2
+60163000,1,"Internationale Hochschule Liebenzell (Kirchl. FH)",5
+60164100,1,"H für Ökonomie und Management Essen in Mannheim (Priv. FH)",4
+60164200,1,"H für Ökonomie und Management Essen in Stuttgart (Priv. FH)",4
+60164300,1,"H für Ökonomie und Management Essen in Karlsruhe (Priv. FH)  ",4
+60165000,1,"IU Internationale Hochschule Erfurt in Mannheim (Priv. FH) ",4
+60166000,1,"Hochschule Macromedia für angewandte Wissenschaften Stuttgart, Campus Stuttgart (Priv. FH)",4
+60166100,1,"Hochschule Macromedia für angewandte Wissenschaften Stuttgart, Campus Freiburg i. Br. (Priv. FH)",4
+60168000,1,"International School of Management Dortmund in Stuttgart (Priv. FH)",4
+60169000,1,"EU European University of Applied Sciences in Mannheim (Priv.FH)",4
+60171000,1,"SRH Hochschule Heidelberg (Priv. FH)",4
+60174000,1,"Karlshochschule International University, Karlsruhe (Priv. FH)",4
+60175000,1,"Hochschule der Wirtschaft für Management (HdWM) Mannheim (Priv. FH)",4
+60177100,1,"Hochschule für Kommunikation und Gestaltung in Stuttgart (Priv. FH)",4
+60177200,1,"Hochschule für Kommunikation und Gestaltung in Ulm (Priv. FH)",4
+60178000,1,"Hochschule Fresenius Heidelberg (Priv. FH)",4
+60179000,1,"SRH Fernhochschule, Riedlingen (Priv. FH)",4
+60180100,1,"VWA-Hochschule für berufsbegleitendes Studium Stuttgart in Freiburg (Priv. FH)",4
+60180200,1,"VWA-Hochschule für berufsbegleitendes Studium Stuttgart in Karlsruhe (Priv. FH)",4
+60180300,1,"	VWA-Hochschule für berufsbegleitendes Studium Stuttgart in Stuttgart (Priv. FH)",4
+60180400,1,"VWA-Hochschule für berufsbegleitendes Studium Stuttgart in Ulm (Priv. FH)",4
+60182000,1,"Allensbach Hochschule Konstanz (Priv. FH)",4
+60183000,1,"AKAD Hochschule Stuttgart (Priv. Fern-FH)",4
+60184000,1,"VICTORIA - Internationale Hochschule Berlin in Baden Baden (Priv. FH)",4
+60185000,1,"media Akademie - Hochschule Stuttgart (Priv. FH)",4
+60186000,1,"Merz Akademie Hochschule für Gestaltung, Kunst und Medien, Stuttgart (Priv. FH)",4
+60188000,1,"IB Hochschule für Gesundheit und Soziales Berlin in Stuttgart (Priv. FH)  ",4
+60189000,1,"Evang. Hochschule Freiburg (Kirchl. FH)",5
+60192000,1,"Theologisches Seminar Reutlingen (Kirchl. FH)",5
+60195100,1,"Evangelische Hochschule Ludwigsburg in Ludwigsburg (Kirchl. FH)",5
+60195200,1,"Evangelische Hochschule Ludwigsburg in Reutlingen (Kirchl. FH)",5
+60198100,1,"Kath. Hochschule Freiburg i.Br., Campus Freiburg (Kirchl. FH)",5
+60198200,1,"Kath. Hochschule Freiburg i.Br., Campus Stuttgart (Kirchl. FH)",5
+60203100,2,"Ostbayerische Technische Hochschule Amberg-Weiden (FH) in Amberg",2
+60203200,2,"Ostbayerische Technische Hochschule Amberg-Weiden (FH) in Weiden",2
+60206000,2,"Hochschule für angewandte Wissenschaften Ansbach in Ansbach (FH)",2
+60206100,2,"Hochschule für angewandte Wissenschaften Ansbach in Rothenburg (FH)",2
+60206200,2,"Hochschule für angewandte Wissenschaften Ansbach in Weißenburg (FH)",2
+60210000,2,"TH Aschaffenburg (FH)",2
+60213000,2,"Hochschule für angewandte Wissenschaften Augsburg (FH)",2
+60215000,2,"Hochschule für angewandte Wissenschaften Coburg (FH)",2
+60220000,2,"Technische Hochschule Deggendorf (FH)",2
+60220100,2,"Technische Hochschule Deggendorf in Deggendorf (FH)",2
+60220200,2,"Technische Hochschule Deggendorf im Landkreis Rottal-Inn (FH)",2
+60220300,2,"Technische Hochschule Deggendorf in Cham (FH)",2
+60225100,2,"Hochschule für angewandte Wissenschaften Hof in Hof (FH)",2
+60225200,2,"Hochschule für angewandte Wissenschaften Hof in Münchberg (FH)",2
+60228000,2,"Technische Hochschule Ingolstadt in Ingolstadt (FH)",2
+60228100,2,"Technische Hochschule Ingolstadt in Neuburg a. d. Donau (FH)",2
+60231000,2,"Hochschule für angewandte Wissenschaften Kempten (FH)",2
+60234000,2,"Hochschule für angewandte Wissenschaften Landshut (FH)",2
+60238000,2,"Hochschule für angewandte Wissenschaften München (FH)",2
+60241000,2,"Hochschule für angewandte Wissenschaften Neu-Ulm (FH)",2
+60244000,2,"Technische Hochschule Nürnberg Georg Simon Ohm (FH)",2
+60247000,2,"Ostbayerische Technische Hochschule Regensburg (FH)",2
+60248000,2,"Mediadesign Hochschule Berlin in München (Priv. FH)",4
+60249000,2,"IB Hochschule für Gesundheit und Soziales Berlin in München (Priv. FH) ",4
+60250100,2,"TH Rosenheim in Rosenheim (FH)",2
+60250200,2,"TH Rosenheim in Mühldorf a. Inn (FH)",2
+60250300,2,"TH Rosenheim in Burghausen (FH)",2
+60253100,2,"H für angewandte Wissenschaften Weihenstephan-Triesdorf (FH) in Triesdorf",2
+60253200,2,"H für angewandte Wissenschaften Weihenstephan-Triesdorf (FH) in Weihenstephan",2
+60253300,2,"H für angewandte Wissenschaften Weihenstephan-Triesdorf (FH) in Straubing",2
+60257100,2,"H für angewandte Wissenschaften Würzburg-Schweinfurt in Schweinfurt (FH)",2
+60257200,2,"H für angewandte Wissenschaften Würzburg-Schweinfurt in Würzburg (FH)",2
+60258000,2,"FH des Mittelstandes (FHM) in Bamberg (Priv. FH) ",4
+60259200,2,"HDBW Hochschule der Bayerischen Wirtschaft für angewandte Wissenschaften in München (Priv. FH)",4
+60261100,2,"H für Ökonomie und Management Essen in Augsburg (Priv. FH)",4
+60261200,2,"H für Ökonomie und Management Essen in München (Priv. FH)",4
+60261300,2,"H für Ökonomie und Management Essen in Nürnberg (Priv. FH)",4
+60262000,2,"Hochschule Fresenius Idstein in München (Priv. FH)",4
+60263000,2,"Hochschule für angewandtes Management, Ismaning (Priv. FH)",4
+60264000,2,"Internationale Hochschule SDI München-Hochschule für angewandte Wissenschaften (Priv. FH)",4
+60265000,2,"Hochschule Macromedia für angewandte Wissenschaften Stuttgart, Campus München (Priv. FH)",4
+60266000,2,"Munich Business School München (Priv. FH)",4
+60267000,2,"SRH Wilhelm Löhe Hochschule, Fürth (Priv. FH)",4
+60268000,2,"Deutsche Hochschule für Gesundheit und Sport Berlin in Ismaning (Priv. FH)",4
+60269000,2,"HSD Hochschule Döpfer Köln in Regensburg (Priv. FH)",4
+60272000,2,"Evang. Hochschule Nürnberg (Kirchl. FH)",5
+60275100,2,"Katholische Stiftungshochschule München in Benediktbeuern (Kirchl. FH)",5
+60275200,2,"Katholische Stiftungshochschule München in München (Kirchl. FH)",5
+60277100,2,"IU Internationale Hochschule Erfurt in Bad Reichenhall (Priv. FH) ",4
+60277200,2,"IU Internationale Hochschule Erfurt in München (Priv. FH)",4
+60277300,2,"IU Internationale Hochschule Erfurt in Nürnberg (Priv. FH)",4
+60279000,2,"International School of Management Dortmund in München (Priv. FH)",4
+60305000,3,"Alice Salomon Hochschule Berlin (FH)",2
+60310000,3,"Berliner Hochschule für Technik (FH)",2
+60315000,3,"H für Technik und Wirtschaft Berlin (FH)",2
+60320001,3,"HWR Berlin, Fachbereich Wirtschaft (FH)",2
+60320002,3,"HWR Berlin, Fachbereich  Duales Studium (FH)",2
+60320003,3,"HWR Berlin, Fachbereich Verwaltung, Recht, Polizei (FH)",2
+60333000,3,"Touro College Berlin (Priv. FH)",4
+60334000,3,"BSP Business and Law School - Hochschule für Management und Recht Berlin in Berlin (Priv. FH)",4
+60335000,3,"bbw Hochschule Berlin (Priv. FH)",4
+60336000,3,"Akkon Hochschule Berlin (Priv. FH)",4
+60338000,3,"Hochschule Macromedia für angewandte Wissenschaften Stuttgart, Campus Berlin (Priv. FH)",4
+60340000,3,"Medical School Berlin, H für Gesundheit und Medizin (Priv. FH)",4
+60345000,3,"Digital Business University Berlin (Priv. FH)",4
+60347000,3,"IB Hochschule für Gesundheit und Soziales Berlin in Berlin (Priv. FH)",4
+60349000,3,"H für Medien, Kommunikation und Wirtschaft Berlin in Berlin (Priv. FH)",4
+60350000,3,"EBC Euro Business College Hamburg Campus Berlin (Priv. FH) ",4
+60351000,3,"H für Ökonomie und Management Essen in Berlin (Priv. FH)",4
+60352000,3,"Deutsche Hochschule für Gesundheit und Sport Berlin in Berlin (Priv. FH)",4
+60353000,3,"Mediadesign Hochschule Berlin in Berlin (Priv. FH)",4
+60354000,3,"FH des Mittelstandes (FHM) in Berlin (Priv. FH)",4
+60356000,3,"SRH Berlin University of Applied Sciences in Berlin (Priv. FH)",4
+60357000,3,"CODE University of Applied Sciences Berlin (Priv. FH)",4
+60359000,3,"International School of Management Dortmund in Berlin (Priv. FH)",4
+60361000,3,"Hochschule für angewandte Pädagogik Berlin (Priv. FH)",4
+60363000,3,"VICTORIA - Internationale Hochschule Berlin in Berlin (Priv. FH)",4
+60364000,3,"Berlin International University of Applied Sciences (Priv. FH)",4
+60366000,3,"DEKRA Hochschule für Medien Berlin (Priv. FH)",4
+60367000,3,"Quadriga Hochschule Berlin (Priv. FH)",4
+60369000,3,"Hochschule Fresenius Idstein in Berlin (Priv. FH)",4
+60370000,3,"Evangelische Hochschule Berlin (Kirchl. FH)",5
+60372000,3,"University of Europe for Applied Sciences Potsdam in Berlin (Priv. FH)",4
+60374000,3,"IU Internationale Hochschule Erfurt in Berlin (Priv. FH) ",4
+60380000,3,"Katholische Hochschule für Sozialwesen Berlin (Kirchl. FH)",5
+60405000,4,"Technische Hochschule Brandenburg (FH)",2
+60410000,4,"Hochschule für nachhaltige Entwicklung Eberswalde (FH)",2
+60420000,4,"FH Potsdam",2
+60422000,4,"Fachhochschule für Sport und Management Potsdam (Priv. FH)",4
+60425000,4,"Technische Hochschule Wildau (FH)",2
+60430000,4,"Theologische Hochschule Elstal (Kirchl. FH)",5
+60435000,4,"Fachhochschule Clara Hoffbauer Potsdam (Priv. FH)",4
+60437000,4,"University of Europe for Applied Sciences Potsdam in Potsdam (Priv. FH) ",4
+60440000,4,"XU Exponential University Potsdam (Priv. FH)",4
+60445000,4,"GISMA Business School Potsdam (Priv. FH)",4
+60505000,5,"H Bremen (FH)",2
+60510000,5,"H Bremerhaven (FH)",2
+60515000,5,"APOLLON H der Gesundheitswirtschaft Bremen (Priv. FH)",4
+60520000,5,"Internationale Hochschule Erfurt in Bremen (Priv. FH) ",4
+60525000,5,"H für Ökonomie und Management Essen in Bremen (Priv. FH)",4
+60605000,6,"H für Angewandte Wissenschaften Hamburg (FH)",2
+60608000,6,"Berufliche Hochschule Hamburg (FH)",2
+60615000,6,"Europ. Fern-H Hamburg GmbH Hamburg (Priv. FH)",4
+60620000,6,"HFH Hamburger Fern-H (Priv. FH)",4
+60625000,6,"HSBA Hamburg School of Business Admin. (Priv. FH)",4
+60630000,6,"Evang. H für Soziale Arbeit und Diakonie, Hamburg (Kirchl. FH)",5
+60635000,6,"EBC Euro Business College Hamburg Campus Hamburg (Priv. FH)",4
+60642000,6,"Northern Business School Hamburg (Priv. FH)",4
+60645000,6,"Hochschule Fresenius Idstein in Hamburg (Priv. FH)",4
+60647000,6,"Brand University Hamburg (Priv. FH)",4
+60649000,6,"International School of Management Dortmund in Hamburg (Priv. FH)  ",4
+60650000,6,"MSH Medical School Hamburg (Priv. FH)",4
+60667000,6,"SRH Berlin University of Applied Sciences in Hamburg (Priv. FH) ",4
+60668000,6,"H für Ökonomie und Management Essen in Hamburg (Priv. FH)",4
+60670000,6,"BSP Business and Law School - Hochschule für Management und Recht Berlin in Hamburg (Priv. FH)",4
+60672000,6,"IB Hochschule für Gesundheit und Soziales Berlin in Hamburg (Priv. FH)",4
+60675000,6,"University of Europe for Applied Sciences Potsdam in Hamburg (Priv. FH)",4
+60678000,6,"Hochschule Macromedia für angewandte Wissenschaften Stuttgart, Campus Hamburg (Priv. FH)",4
+60680000,6,"IU Internationale Hochschule Erfurt in Hamburg (Priv. FH)",4
+60705100,7,"h_da - H Darmstadt in Darmstadt (FH)",2
+60705200,7,"h_da - H Darmstadt in Dieburg (FH)",2
+60710000,7,"Frankfurt University of Applied Sciences (FH)",2
+60715000,7,"Hochschule Fulda (FH)",2
+60720100,7,"Technische Hochschule Mittelhessen (THM) in Friedberg (FH)",2
+60720200,7,"Technische Hochschule Mittelhessen (THM) in Gießen (FH)",2
+60720300,7,"Technische Hochschule Mittelhessen (THM) in Wetzlar (FH)",2
+60725200,7,"Hochschule RheinMain (FH) in Rüsselsheim",2
+60725300,7,"Hochschule RheinMain (FH) in Wiesbaden",2
+60728000,7,"Hochschule Geisenheim University (FH)",2
+60730000,7,"H der Deutschen Gesetzl. Unfallversicherung, Bad Hersfeld (Priv. FH)",4
+60735000,7,"accadis Hochschule Bad Homburg (Priv. FH)",4
+60740000,7,"Wilhelm Büchner Hochschule Darmstadt (Priv. Fern-FH)",4
+60745000,7,"Provadis School of Intern. Management and Technology, Frankfurt a.M. (Priv. FH)",4
+60750100,7,"Hochschule Fresenius Idstein in Idstein (Priv. FH)",4
+60750200,7,"Hochschule Fresenius Idstein in Frankfurt (Priv. FH)",4
+60750300,7,"Hochschule Fresenius Idstein in Wiesbaden (Priv. FH)",4
+60751000,7,"UoL-University of Labour Frankfurt (Priv. FH) ",4
+60755100,7,"DIPLOMA - FH Nordhessen in Bad Sooden-Allendorf (Priv. FH)",4
+60755200,7,"DIPLOMA - FH Nordhessen in Kassel (Priv. FH)",4
+60758000,7,"H für Medien, Kommunikation und Wirtschaft Berlin in Frankfurt (Priv. FH) ",4
+60760000,7,"Evangelische Hochschule Darmstadt (EHD), (Kirchl. FH)",5
+60760100,7,"Evangelische Hochschule Darmstadt (EHD) in Darmstadt (Kirchl. FH)",5
+60760200,7,"Evangelische Hochschule Darmstadt (EHD) in Schwalmstadt (Kirchl. FH)",5
+60765000,7,"CVJM-Hochschule Kassel (Priv. FH)",4
+60768000,7,"Promotionszentrum Soziale Arbeit ",2
+60770000,7,"Promotionszentrum Angewandte Informatik ",2
+60775100,7,"H für Ökonomie und Management Essen in Kassel (Priv. FH)",4
+60775200,7,"H für Ökonomie und Management Essen in Frankfurt (Priv. FH)",4
+60776000,7,"Hochschule Macromedia für angewandte Wissenschaften Stuttgart, Campus Frankfurt a. M. (Priv. FH)",4
+60780000,7,"International School of Management Dortmund in Frankfurt (Priv. FH)",4
+60783000,7,"IU Internationale Hochschule Erfurt in Frankfurt (Priv. FH)",4
+60805000,8,"Hochschule Neubrandenburg (FH)",2
+60810000,8,"Hochschule Stralsund (FH)",2
+60815000,8,"Hochschule Wismar (FH)",2
+60825000,8,"Hochschule der Bundesagentur für Arbeit in Schwerin (FH)",1
+60830100,8,"FH des Mittelstandes (FHM) in Rostock (Priv. FH)",4
+60830200,8,"FH des Mittelstandes (FHM) in Schwerin (Priv. FH)",4
+60835000,8,"Europäische FH (EUFH) in Rostock (Priv. FH)",4
+60905200,9,"Hochschule Braunschweig-Wolfenbüttel in Salzgitter (FH)",2
+60905300,9,"Hochschule Braunschweig-Wolfenbüttel in Wolfenbüttel (FH)",2
+60905400,9,"Hochschule  Braunschweig-Wolfenbüttel in Wolfsburg (FH)",2
+60905500,9,"Hochschule Braunschweig-Wolfenbüttel in Suderburg (FH)",2
+60907100,9,"Hochschule Emden/Leer in Emden (FH)",2
+60907200,9,"Hochschule Emden/Leer in Leer (FH)",2
+60910100,9,"Hochschule Hannover (FH)",2
+60912000,9,"Hochschule Weserbergland (HSW), Hameln (Priv. FH)",4
+60915200,9,"Hochschule Hildesheim/Holzminden/Göttingen in Göttingen (FH)",2
+60915300,9,"Hochschule Hildesheim/Holzminden/Göttingen in Hildesheim (FH)",2
+60915400,9,"Hochschule Hildesheim/Holzminden/Göttingen in Holzminden (FH)",2
+60920100,9,"Hochschule Wilhelmshaven/Oldenburg/Elsfleth in Elsfleth (FH)",2
+60920200,9,"Hochschule Wilhelmshaven/Oldenburg/Elsfleth in Oldenburg (FH)",2
+60920300,9,"Hochschule Wilhelmshaven/Oldenburg/Elsfleth in Wilhelmshaven (FH)",2
+60925100,9,"Hochschule Osnabrück in Osnabrück (FH)",2
+60925200,9,"Hochschule Osnabrück in Lingen (FH)",2
+60927000,9,"Hochschule21, Buxtehude (Priv. FH)",4
+60930000,9,"FH für Interkulturelle Theologie Hermannsburg (Priv. FH)",4
+60935000,9,"Private Hochschule Göttingen (Priv. FH)",4
+60940200,9,"Fachhochschule für die Wirtschaft Hannover (FHDW) (Priv. FH)",4
+60942000,9,"H für Ökonomie und Management Essen in Hannover (Priv. FH)",4
+60944000,9,"FH des Mittelstandes (FHM) in Hannover (Priv. FH)",4
+60945000,9,"FH Ottersberg (Priv. FH)",4
+60950100,9,"H für Wirtschaft und Technik Vechta/Diepholz in Diepholz (Priv. FH)",4
+60950300,9,"H für Wirtschaft und Technik Vechta/Diepholz in Vechta (Priv. FH)",4
+60965000,9,"Leibniz - Fachhochschule Hannover (Priv. FH)",4
+61003100,10,"FH Aachen in Aachen",2
+61003200,10,"FH Aachen in Jülich",2
+61006100,10,"FH Bielefeld in Bielefeld",2
+61006200,10,"FH Bielefeld in Minden",2
+61006300,10,"FH Bielefeld in Gütersloh",2
+61009100,10,"Hochschule Bochum (FH) in Bochum",2
+61009200,10,"Hochschule Bochum (FH) in Velbert/Heiligenhaus",2
+61011000,10,"Hochschule für Gesundheit Bochum (FH)",2
+61012100,10,"H Bonn-Rhein-Sieg in Rheinbach (FH)",2
+61012200,10,"H Bonn-Rhein-Sieg in Sankt Augustin (FH)",2
+61012300,10,"H Bonn-Rhein-Sieg in Hennef (FH)",2
+61015000,10,"FH Dortmund",2
+61018000,10,"H Düsseldorf (FH)",2
+61021100,10,"Westfälische H in Gelsenkirchen/Bocholt/Recklinghausen (FH) in Bocholt",2
+61021200,10,"Westfälische H in Gelsenkirchen/Bocholt/Recklinghausen (FH) in Gelsenkirchen",2
+61021300,10,"Westfälische H in Gelsenkirchen/Bocholt/Recklinghausen (FH) in Recklinghausen",2
+61022100,10,"H Hamm-Lippstadt in Hamm (FH)",2
+61022200,10,"H Hamm-Lippstadt in Lippstadt (FH)",2
+61024100,10,"Technische Hochschule Köln (FH) in Gummersbach",2
+61024200,10,"Technische Hochschule Köln (FH) in Köln",2
+61024300,10,"Technische Hochschule Köln (FH) in Leverkusen",2
+61027100,10,"TH Ostwestfalen-Lippe in Lemgo/Detmold/Höxter in Detmold (FH)",2
+61027200,10,"TH Ostwestfalen-Lippe in Lemgo/Detmold/Höxter in Höxter (FH)",2
+61027300,10,"TH Ostwestfalen-Lippe in Lemgo/Detmold/Höxter in Lemgo (FH)",2
+61030100,10,"FH Münster in Münster",2
+61030200,10,"FH Münster in Steinfurt",2
+61033100,10,"H Niederrhein in Krefeld (FH)",2
+61033200,10,"H Niederrhein in Mönchengladbach (FH)",2
+61034100,10,"H Rhein-Waal in Kleve (FH)",2
+61034200,10,"H Rhein-Waal in Kamp-Lintfort (FH)",2
+61036100,10,"FH Südwestfalen in Hagen",2
+61036200,10,"FH Südwestfalen in Iserlohn",2
+61036300,10,"FH Südwestfalen in Meschede",2
+61036400,10,"FH Südwestfalen in Soest",2
+61038100,10,"H Ruhr-West (FH) in Bottrop",2
+61038200,10,"H Ruhr-West (FH) in Mülheim",2
+61039100,10,"IU Internationale Hochschule Erfurt in Bad Honnef (Priv. FH)",4
+61039200,10,"IU Internationale Hochschule Erfurt in Dortmund (Priv. FH)",4
+61039300,10,"IU Internationale Hochschule Erfurt in Düsseldorf (Priv. FH)",4
+61040000,10,"IB Hochschule für Gesundheit und Soziales Berlin in Köln (Priv. FH)",4
+61041000,10,"Mediadesign Hochschule Berlin in Düsseldorf (Priv. FH)  ",4
+61042100,10,"FH des Mittelstandes (FHM) in Bielefeld (Priv. FH)",4
+61042200,10,"FH des Mittelstandes (FHM) in Köln (Priv. FH)",4
+61042300,10,"FH des Mittelstandes (FHM) in Frechen (Priv. FH)",4
+61043000,10,"Fliedner Fachhochschule Düsseldorf (Priv. FH)",4
+61044000,10,"Kolping H, Köln (Priv. FH)",4
+61045000,10,"TH Georg Agricola Bochum (Priv. FH)",4
+61047000,10,"EBZ Business School Bochum (Priv. FH)",4
+61048000,10,"H für Finanzwirtschaft & Management Bonn (Priv. FH)",4
+61051100,10,"Europäische FH (EUFH) in Brühl (Priv. FH)",4
+61051200,10,"Europäische FH (EUFH) in Neuss (Priv. FH)",4
+61051300,10,"Europäische FH (EUFH) in Köln (Priv. FH)",4
+61051400,10,"Europäische FH (EUFH) in Rheine (Priv. FH)",4
+61054100,10,"International School of Management Dortmund in Dortmund (Priv. FH)",4
+61054200,10,"International School of Management Dortmund in Köln (Priv. FH)",4
+61055100,10,"praxisHochschule Köln in Köln (Priv. FH)",4
+61055200,10,"praxisHochschule Köln in Rheine (Priv. FH)",4
+61057000,10,"H für Ökonomie und Management Essen (Priv. FH)",4
+61057010,10,"H für Ökonomie und Management Essen in Arnsberg (Priv. FH)",4
+61057030,10,"H für Ökonomie und Management Essen in Aachen (Priv. FH)",4
+61057040,10,"H für Ökonomie und Management Essen in Bochum (Priv. FH)",4
+61057050,10,"H für Ökonomie und Management Essen in Bonn (Priv. FH)",4
+61057060,10,"H für Ökonomie und Management Essen in Bönen (Priv. FH)",4
+61057100,10,"H für Ökonomie und Management Essen in Dortmund (Priv. FH)",4
+61057200,10,"H für Ökonomie und Management Essen in Düsseldorf (Priv. FH)",4
+61057300,10,"H für Ökonomie und Management Essen in Duisburg (Priv. FH)",4
+61057400,10,"H für Ökonomie und Management Essen in Essen (Priv. FH)",4
+61057500,10,"H für Ökonomie und Management Essen in Gütersloh (Priv. FH)",4
+61057520,10,"H für Ökonomie und Management Essen in Hagen (Priv. FH)",4
+61057600,10,"H für Ökonomie und Management Essen in Köln (Priv. FH)",4
+61057700,10,"H für Ökonomie und Management Essen in Marl (Priv. FH)",4
+61057720,10,"H für Ökonomie und Management Essen in Münster (Priv. FH)",4
+61057800,10,"H für Ökonomie und Management Essen in Neuss (Priv. FH)",4
+61057900,10,"H für Ökonomie und Management Essen in Siegen (Priv. FH)",4
+61057910,10,"H für Ökonomie und Management Essen in Wesel (Priv. FH)",4
+61057950,10,"H für Ökonomie und Management Essen in Wuppertal (Priv. FH)",4
+61058000,10,"EBC Euro Business College Hamburg Campus Düsseldorf (Priv. FH)",4
+61059000,10,"IST-Hochschule für Management Düsseldorf (Priv. FH)",4
+61060000,10,"SRH Hochschule Nordrhein-Westfalen Hamm in Hamm (Priv. FH)",4
+61060100,10,"SRH Hochschule Nordrhein-Westfalen Hamm in Leverkusen (Priv. FH) ",4
+61062000,10,"Hochschule Macromedia für angewandte Wissenschaften Stuttgart, Campus Köln (Priv. FH)",4
+61063000,10,"University of Europe for Applied Sciences Potsdam in Iserlohn (Priv. FH)",4
+61065000,10,"CBS International Business School, Campus Köln (Priv. FH)",4
+61066000,10,"Hochschule Fresenius Idstein in Köln (Priv. FH)",4
+61066100,10,"Hochschule Fresenius Idstein in Düsseldorf (Priv. FH)  ",4
+61067000,10,"Deutsche Hochschule für Gesundheit und Sport Berlin in Unna (Priv. FH)",4
+61069100,10,"Rheinische FH Köln in Köln (Priv. FH) ",4
+61069200,10,"Rheinische FH Köln in Neuss (Priv. FH)",4
+61070000,10,"HSD Hochschule Döpfer Köln in Köln (Priv. FH)",4
+61072100,10,"FH der Wirtschaft Paderborn in Bergisch-Gladbach (Priv. FH)",4
+61072200,10,"FH der Wirtschaft Paderborn in Bielefeld (Priv. FH)",4
+61072400,10,"FH der Wirtschaft Paderborn in Paderborn (Priv. FH)",4
+61072500,10,"FH der Wirtschaft Paderborn in Mettmann (Priv. FH)",4
+61073000,10,"H für Medien, Kommunikation und Wirtschaft Berlin in Köln (Priv. FH)",4
+61074000,10,"FH der Diakonie Bielefeld-Bethel (Kirchl. FH)",5
+61075000,10,"Evang. Hochschule Rheinland-Westfalen-Lippe, Bochum (Kirchl. FH)",5
+61078100,10,"Kath. Hochschule Nordrhein-Westfalen in Aachen (Kirchl. FH)",5
+61078200,10,"Kath. Hochschule Nordrhein-Westfalen in Köln (Kirchl. FH)",5
+61078300,10,"Kath. Hochschule Nordrhein-Westfalen in Münster (Kirchl. FH)",5
+61078400,10,"Kath. Hochschule Nordrhein-Westfalen in Paderborn (Kirchl. FH)",5
+61105000,11,"Technische Hochschule Bingen (FH)",2
+61110100,11,"Hochschule Kaiserslautern in Kaiserslautern (FH)",2
+61110200,11,"Hochschule Kaiserslautern in Pirmasens (FH)",2
+61110300,11,"Hochschule Kaiserslautern in Zweibrücken (FH)",2
+61115100,11,"Hochschule Koblenz (FH) in Höhr-Grenzhausen",2
+61115200,11,"Hochschule Koblenz (FH) in Koblenz",2
+61115300,11,"Hochschule Koblenz (FH) in Remagen",2
+61120000,11,"Hochschule für Wirtschaft und Gesellschaft Ludwigshafen (FH)",2
+61125000,11,"Hochschule Mainz (FH)",2
+61130100,11,"Hochschule Trier (FH) in Birkenfeld",2
+61130200,11,"Hochschule Trier (FH) in Idar-Oberstein",2
+61130300,11,"Hochschule Trier (FH) in Trier",2
+61135000,11,"Hochschule Worms (FH)",2
+61145000,11,"Katholische Hochschule Mainz (Kirchl. FH)",5
+61150000,11,"Cusanus Hochschule für Gesellschaftsgestaltung Bernkastel-Kues (Priv. FH)",4
+61155000,11,"CBS International Business School, Campus Mainz (Priv. FH)",4
+61205000,12,"H für Technik und Wirtschaft des Saarlandes Saarbrücken (FH)",2
+61215000,12,"Deutsche Hochschule für Prävention und Gesundheitsmanagement, Saarbrücken (Priv. FH)",4
+61220000,12,"H für Ökonomie und Management Essen in Saarbrücken (Priv. FH)",4
+61305000,13,"H für Technik und Wirtschaft Dresden, Hochschule für angewandte Wissenschaften (FH)",2
+61310000,13,"H für Technik, Wirtschaft und Kultur Leipzig, Hochschule für angewandte Wissenschaften (FH)",2
+61315000,13,"H Mittweida (University of Applied Sciences), Hochschule für angewandte Wissenschaften (FH)",2
+61320000,13,"H Zittau/Görlitz, Hochschule für angewandte Wissenschaften (FH)",2
+61320100,13,"H Zittau/Görlitz in Görlitz, Hochschule für angewandte Wissenschaften (FH)",2
+61320200,13,"H Zittau/Görlitz in Zittau, Hochschule für angewandte Wissenschaften (FH)",2
+61325000,13,"Westsächsische H Zwickau, Hochschule für angewandte Wissenschaften (FH)",2
+61325100,13,"Westsächsische H Zwickau in Reichenbach, Hochschule für angewandte Wissenschaften (FH)",2
+61325200,13,"Westsächsische H Zwickau in Schneeberg, Hochschule für angewandte Wissenschaften (FH)",2
+61325300,13,"Westsächsische H Zwickau in Zwickau, Hochschule für angewandte Wissenschaften (FH)",2
+61331000,13,"Hochschule Macromedia für angewandte Wissenschaften Stuttgart, Campus Leipzig (Priv. FH) ",4
+61333000,13,"IU Internationale Hochschule Erfurt in Leipzig (Priv. FH)",4
+61335000,13,"Hochschule für Telekommunikation Leipzig (Priv. FH)",4
+61336000,13,"H für Ökonomie und Management Essen in Leipzig (Priv. FH)",4
+61338000,13,"SRH Berlin University of Applied Sciences in Dresden (Priv. FH)",4
+61355100,13,"Evangelische Hochschule Dresden in Dresden (Kirchl. FH)",5
+61355200,13,"Evangelische Hochschule Dresden in Moritzburg (Kirchl. FH)",5
+61365000,13,"Fachhochschule Dresden (Priv. FH)",4
+61405100,14,"H Anhalt in Bernburg (FH) ",2
+61405200,14,"H Anhalt in Dessau (FH) ",2
+61405300,14,"H Anhalt in Köthen (FH) ",2
+61410100,14,"H Harz in Halberstadt (FH)",2
+61410200,14,"H Harz in Wernigerode (FH)",2
+61415100,14,"H Magdeburg-Stendal in Magdeburg (FH)",2
+61415200,14,"H Magdeburg-Stendal in Stendal (FH)",2
+61420000,14,"Hochschule Merseburg (FH)",2
+61505000,15,"Hochschule Flensburg (FH)",2
+61510000,15,"FH Westküste, Heide",2
+61515000,15,"FH Kiel",2
+61520000,15,"Technische Hochschule Lübeck (FH)",2
+61525000,15,"Hochschule der Wirtschaft (Nordakademie) Elmshorn (Priv. FH)",4
+61535000,15,"FH Wedel (Priv. FH)",4
+61540000,15,"DHSH - Duale Hochschule Schleswig-Holstein, Kiel (Priv. FH)",4
+61605000,16,"FH Erfurt",2
+61610000,16,"Ernst-Abbe-Hochschule Jena (FH)",2
+61615000,16,"Hochschule Nordhausen (FH)",2
+61620000,16,"Hochschule Schmalkalden (FH)",2
+61640000,16,"SRH FH für Gesundheit Gera (Priv. FH)",4
+61645100,16,"Duale Hochschule Gera-Eisenach in Eisenach (FH)",2
+61645200,16,"Duale Hochschule Gera-Eisenach in Gera (FH)",2
+61650000,16,"IU Internationale Hochschule Erfurt in Erfurt (Priv. FH) ",4
+70105000,1,"FH für öffentliche Verwaltung Kehl (Verw-FH)  ",2
+70110000,1,"Hochschule Ludwigsburg für öffentliche Verwaltung und Finanzen  (Verw-FH)  ",2
+70115000,1,"FH für Rechtspflege Schwetzingen (Verw-FH)  ",2
+70120000,1,"Staatl. H für Polizei Villingen-Schwenningen (Verw-FH)  ",2
+70125000,1,"Hochschule des Bundes für öffentliche Verwaltung, FB Bundeswehrverwaltung in Mannheim",1
+70205100,2,"Hochschule für den öffentlichen Dienst in Bayern Standort Fürstenfeldbruck (Polizei) (Verw-FH)",2
+70205200,2,"Hochschule für den öffentlichen Dienst in Bayern Standort Herrsching (Finanzwesen) (Verw-FH)",2
+70205250,2,"Hochschule für den öffentlichen Dienst in Bayern Standort Dorfen (Sozialverwaltung) (Verw-FH)",2
+70205300,2,"Hochschule für den öffentlichen Dienst in Bayern Standort Hof (Allg. Innere Verwaltung) (Verw-FH)",2
+70205350,2,"Hochschule für den öffentlichen Dienst in Bayern Standort Kaufbeuren (Finanzwesen) (Verw-FH) ",2
+70205400,2,"Hochschule für den öffentlichen Dienst in Bayern Standort München (Archiv- u. Biblioth.) (Verw-FH)",2
+70205500,2,"Hochschule für den öffentlichen Dienst in Bayern Standort Starnberg (Rechtspflege) (Verw-FH)",2
+70205550,2,"Hochschule für den öffentlichen Dienst in Bayern Standort Sulzbach-Rosenberg (Polizei) (Verw-FH) ",2
+70205600,2,"Hochschule für den öffentlichen Dienst in Bayern Standort Wasserburg (Sozialverwaltung) (Verw-FH)",2
+70205700,2,"Hochschule für den öffentlichen Dienst in Bayern Standort München (Zentralverwaltung) (Verw-FH)  ",2
+70310001,3,"Hochschule des Bundes für öffentliche Verwaltung, FB Auswärtige Angelegenheiten in Berlin",1
+70310002,3,"Hochschule des Bundes für öffentliche Verwaltung, FB Sozialversicherung in Berlin",1
+70310003,3,"Hochschule des Bundes für öffentliche Verwaltung, FB Nachrichtendienste in Berlin ",1
+70405000,4,"Hochschule der Polizei Brandenburg in Oranienburg (Verw-FH)",2
+70410000,4,"FH für Finanzen Brandenburg Königs Wusterhausen (Verw-FH)",2
+70505000,5,"H für öffentliche Verwaltung Bremen (Verw-FH)",2
+70605000,6,"Akademie der Polizei Hamburg (Verw-FH)",2
+70610000,6,"Norddeutsche Akademie für Finanzen und Steuerrecht Hamburg (Verw-FH)",2
+70705000,7,"FH für Archivwesen Marburg (Verw-FH)",2
+70710000,7,"Hessische Hochschule für Finanzen und Rechtspflege Rotenburg (Verw-FH)",2
+70715200,7,"Hessische Hochschule für Polizei und Verwaltung Wiesbaden in Gießen (Verw-FH)",2
+70715300,7,"Hessische Hochschule für Polizei und Verwaltung Wiesbaden in Kassel (Verw-FH)",2
+70715400,7,"Hessische Hochschule für Polizei und Verwaltung Wiesbaden in Mühlheim (Verw-FH)",2
+70715500,7,"Hessische Hochschule für Polizei und Verwaltung Wiesbaden in Wiesbaden (Verw-FH)",2
+70720100,7,"Hochschule des Bundes für öffentliche Verwaltung, FB Wetterdienst in Langen",1
+70720200,7,"Hochschule des Bundes für öffentliche Verwaltung, FB Kriminalpolizei in Wiesbaden",1
+70720300,7,"Hochschule des Bundes für öffentl. Verwaltung, FB Landwirtschaftliche Sozialversicherung in Kassel",1
+70805000,8,"FH für öffentliche Verwaltung, Polizei und Rechtspflege in Güstrow (Verw-FH)",2
+70910000,9,"Norddeutsche Hochschule für Rechtspflege Hildesheim (Verw-FH)",2
+70930000,9,"Kommunale H für Verwaltung in Niedersachsen, Hannover (Priv. Verw-FH)",4
+71005000,10,"FH für Rechtspflege NW in Bad Münstereifel (Verw-FH)",2
+71010000,10,"Hochschule für Finanzen Nordrhein-Westfalen in Nordkirchen (Verw-FH)",2
+71015050,10,"Hochschule für Polizei und öffentliche Verwaltung NW in Aachen (Verw-FH)",2
+71015100,10,"Hochschule für Polizei und öffentliche Verwaltung NW in Bielefeld (Verw-FH)",2
+71015200,10,"Hochschule für Polizei und öffentliche Verwaltung NW in Duisburg (Verw-FH)",2
+71015300,10,"Hochschule für Polizei und öffentliche Verwaltung NW in Gelsenkirchen (Verw-FH)",2
+71015400,10,"Hochschule für Polizei und öffentliche Verwaltung NW in Hagen (Verw-FH)",2
+71015450,10,"Hochschule für Polizei und öffentliche Verwaltung NW in Herne (Verw-FH)",2
+71015500,10,"Hochschule für Polizei und öffentliche Verwaltung NW in Köln (Verw-FH)",2
+71015600,10,"Hochschule für Polizei und öffentliche Verwaltung NW in Münster (Verw-FH)",2
+71015700,10,"Hochschule für Polizei und öffentliche Verwaltung NW in Dortmund (Verw-FH)",2
+71015800,10,"Hochschule für Polizei und öffentliche Verwaltung NW in Mülheim (Verw-FH)",2
+71020101,10,"Hochschule des Bundes für öffentliche Verwaltung, FB Allgemeine innere Verwaltung in Brühl",1
+71020102,10,"Hochschule des Bundes für öff. Verwaltung, FB Nachrichtendienste Abteilung Verfassungsschutz, Brühl",1
+71020200,10,"Hochschule des Bundes für öffentliche Verwaltung, FB Finanzen in Münster",1
+71105000,11,"Hochschule für Finanzen Rheinland-Pfalz (HFin) in Edenkoben (Verw-FH)",2
+71110000,11,"Hochschule der Deutschen Bundesbank Hachenburg (Verw-FH)",1
+71115200,11,"Hochschule für öffentliche Verwaltung Rheinland-Pfalz (HöV) Mayen, FB Innere Verwaltung in Mayen",2
+71120000,11,"Hochschule der Polizei Rheinland-Pfalz in Büchenbeuren (Verw-FH)",2
+71205000,12,"FH für Verwaltung Saarbrücken (Verw-FH)",2
+71305000,13,"Hochschule Meißen (FH) und Fortbildungszentrum (Verw-FH)",2
+71310100,13,"H der Sächsischen Polizei (FH) in Rothenburg/OL. (Verw-FH)",2
+71310200,13,"H der Sächsischen Polizei (FH) in Bautzen (Verw-FH) ",2
+71405000,14,"FH Polizei Sachsen-Anhalt, Aschersleben (Verw-FH)",2
+71505100,15,"FH für Verwaltung und Dienstleistung Altenholz in Altenholz (Verw-FH)",2
+71505200,15,"FH für Verwaltung und Dienstleistung Altenholz in Reinfeld (Verw-FH)",2
+71510000,15,"Hochschule des Bundes für öffentliche Verwaltung, FB Bundespolizei in Lübeck",1
+71610000,16,"Thüringer FH für öffentliche Verwaltung Gotha (Verw-FH)",2
+89805000,98,"Sonstige deutsche Hochschulen",6
+89850000,98,"Berufsakademie in Deutschland",6
+99905000,99,"Hochschulen im Ausland",6
+"B0610100",6,"Berufsakademie Hamburg (Private BA)",4
+"B0615100",6,"Berufsakademie Nord GmbH, University of Cooperative Education Hamburg (Private BA)	",4
+"B0705100",7,"Akademie für Tonkunst Darmstadt",1
+"B0710100",7,"Berufsakademie Rhein-Main Rödermark (Private BA)",4
+"B0715100",7,"Brüder-Grimm-Berufsakademie Hanau (Private BA)",4
+"B0718000",7,"Deutsche Berufsakademie Sport und Gesundheit (dba) in Baunatal (Private BA)",4
+"B0720100",7,"Dr. Hoch's Konservatorium - Musikakademie Frankfurt am Main",1
+"B0725100",7,"Europäische Studienakademie Kälte-Klima-Lüftung (ESaK) Maintal (Private BA)",4
+"B0730100",7,"Hessische Berufsakademie Frankfurt, Studienort Frankfurt (Private BA)",4
+"B0730150",7,"Hessische Berufsakademie Frankfurt, Studienort Kassel (Private BA)",4
+"B0760100",7,"Intern. Berufsakademie der F+U Unternehmensgruppe Darmstadt (iba), Studienort Berlin (Priv.)",4
+"B0760150",7,"Intern. Berufsakademie der F+U Unternehmensgruppe Darmstadt (iba), Studienort Bochum (Priv.)",4
+"B0760200",7,"Intern. Berufsakademie der F+U Unternehmensgruppe Darmstadt (iba), Studienort Darmstadt (Priv.)",4
+"B0760250",7,"Intern. Berufsakademie der F+U Unternehmensgruppe Darmstadt (iba), Studienort Erfurt (Priv.)",4
+"B0760350",7,"Intern. Berufsakademie der F+U Unternehmensgruppe Darmstadt (iba), Studienort Hamburg (Priv.)",4
+"B0760400",7,"Intern. Berufsakademie der F+U Unternehmensgruppe Darmstadt (iba), Studienort Heidelberg (Priv.)",4
+"B0760450",7,"Intern. Berufsakademie der F+U Unternehmensgruppe Darmstadt (iba), Studienort Kassel (Priv.)",4
+"B0760500",7,"Intern. Berufsakademie der F+U Unternehmensgruppe Darmstadt (iba), Studienort Köln (Priv.)",4
+"B0760550",7,"Intern. Berufsakademie der F+U Unternehmensgruppe Darmstadt (iba), Studienort Leipzig (Priv.)",4
+"B0760600",7,"Intern. Berufsakademie der F+U Unternehmensgruppe Darmstadt (iba), Studienort München (Priv.)",4
+"B0760650",7,"Intern. Berufsakademie der F+U Unternehmensgruppe Darmstadt (iba), Studienort Nürnberg (Priv.)",4
+"B0770100",7,"Musikakademie der Stadt Kassel Louis Spohr",1
+"B0775100",7,"Private Berufsakademie Fulda",4
+"B0785100",7,"Wiesbadener Musikakademie (WMA)",1
+"B0910100",9,"Berufsakademie Holztechnik Melle (Private BA)",4
+"B0915100",9,"Berufsakademie für Bankwirtschaft Hannover-Rastede, Studienort Hannover (Private BA)",4
+"B0915150",9,"Berufsakademie für Bankwirtschaft Hannover-Rastede, Studienort Rastede (Private BA)",4
+"B0920100",9,"Berufsakademie für IT und Wirtschaft Oldenburg (Private BA)",4
+"B0925100",9,"Berufsakademie Göttingen (Private BA)",4
+"B0930100",9,"Berufsakademie Lüneburg (Private BA)",4
+"B0940100",9,"Berufsakademie Welfenakademie Braunschweig (Private BA)",4
+"B0945100",9,"Berufsakademie Wilhelmshaven (Private BA)",4
+"B1215100",12,"ASW - Berufsakademie Saarland Neunkirchen (Private BA) ",4
+"B1220100",12,"BA GSS - Berufsakademie für Gesundheits- und Sozialwesen Saarland gGmbH, Saarbrücken (Private BA)",4
+"B1225200",12,"ISBA gGmbH - Internationale Studien- und Berufsakademie, Saarbrücken (Private BA)",4
+"B1230100",12,"Berufsakademie Heimerer GmbH, Quierschied (Private BA)",4
+"B1310100",13,"Berufsakademie Sachsen - Staatliche Studienakademie, Studienort Bautzen",1
+"B1310150",13,"Berufsakademie Sachsen - Staatliche Studienakademie, Studienort Breitenbrunn",1
+"B1310200",13,"Berufsakademie Sachsen - Staatliche Studienakademie, Studienort Dresden",1
+"B1310250",13,"Berufsakademie Sachsen - Staatliche Studienakademie, Studienort Glauchau",1
+"B1310300",13,"Berufsakademie Sachsen - Staatliche Studienakademie, Studienort Leipzig",1
+"B1310350",13,"Berufsakademie Sachsen - Staatliche Studienakademie, Studienort Riesa",1
+"B1310400",13,"Berufsakademie Sachsen - Staatliche Studienakademie, Studienort Plauen",1
