@@ -29,7 +29,7 @@ Overall, this methodology ensured that the German HEIs dataset contains accurate
 
 This data is available under the Creative Commons Zero (CC0) license and can be used for academic research purposes. We encourage the sharing of knowledge and the advancement of research in this field by adhering to open science principles [2].
 
-If you use this data in your research, please cite the source and include a link to this repository. To properly attribute this data, please use the following DOI:
+If you use this data in your research, please cite the source and include a link to this repository. To properly attribute this data, please use the following DOI: **10.5281/zenodo.8059076**
 
 ## Contribution
 
