@@ -1,0 +1,18 @@
+Region,Global #,Without axfr #,Without axfr %,With axfr #,With axfr %
+Brandenburg,10,9,90.0,1,10.0
+Rheinland-Pfalz,15,14,93.33333333333333,1,6.666666666666667
+Nordrhein-Westfalen,42,40,95.23809523809523,2,4.761904761904762
+Bayern,34,33,97.05882352941177,1,2.941176470588235
+Baden-Württemberg,48,48,100.0,0,0.0
+Berlin,12,12,100.0,0,0.0
+Bremen,5,5,100.0,0,0.0
+Hamburg,10,10,100.0,0,0.0
+Hessen,22,22,100.0,0,0.0
+Mecklenburg-Vorpommern,7,7,100.0,0,0.0
+Niedersachsen,21,21,100.0,0,0.0
+Saarland,5,5,100.0,0,0.0
+Sachsen,23,23,100.0,0,0.0
+Sachsen-Anhalt,8,8,100.0,0,0.0
+Schleswig-Holstein,10,10,100.0,0,0.0
+Thüringen,11,11,100.0,0,0.0
+Total,283,278,98.23321554770318,5,1.76678445229682

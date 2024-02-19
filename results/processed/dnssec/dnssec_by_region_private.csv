@@ -1,0 +1,17 @@
+Region,Global #,Without DNSSEC #,Without DNSSEC %,With Invalid DNSSEC #,With Invalid DNSSEC %,With Valid DNSSEC #,With Valid DNSSEC %
+Bayern,12,9,75.0,0,0.0,3,25.0
+Rheinland-Pfalz,6,5,83.33333333333334,0,0.0,1,16.666666666666664
+Brandenburg,9,8,88.88888888888889,0,0.0,1,11.11111111111111
+Nordrhein-Westfalen,25,23,92.0,1,4.0,1,4.0
+Niedersachsen,16,15,93.75,0,0.0,1,6.25
+Baden-Württemberg,24,24,100.0,0,0.0,0,0.0
+Berlin,28,28,100.0,0,0.0,0,0.0
+Bremen,2,2,100.0,0,0.0,0,0.0
+Hamburg,11,11,100.0,0,0.0,0,0.0
+Hessen,23,23,100.0,0,0.0,0,0.0
+Saarland,5,5,100.0,0,0.0,0,0.0
+Sachsen,7,7,100.0,0,0.0,0,0.0
+Sachsen-Anhalt,2,2,100.0,0,0.0,0,0.0
+Schleswig-Holstein,3,3,100.0,0,0.0,0,0.0
+Thüringen,2,2,100.0,0,0.0,0,0.0
+Total,175,167,95.42857142857143,1,0.5714285714285714,7,4.0

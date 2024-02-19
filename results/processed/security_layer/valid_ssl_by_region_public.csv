@@ -1,0 +1,18 @@
+Region,Global #,Without SSL #,Without SSL %,Valid Configuration #,Valid Configuration %,Invalid Configuration #,Invalid Configuration %
+Mecklenburg-Vorpommern,7,1,14.285714285714285,6,85.71428571428571,0,0.0
+Niedersachsen,21,1,4.761904761904762,19,90.47619047619048,1,4.761904761904762
+Baden-Württemberg,48,2,4.166666666666666,46,95.83333333333334,0,0.0
+Bayern,34,0,0.0,34,100.0,0,0.0
+Berlin,12,0,0.0,12,100.0,0,0.0
+Brandenburg,10,0,0.0,10,100.0,0,0.0
+Bremen,5,0,0.0,5,100.0,0,0.0
+Hamburg,10,0,0.0,10,100.0,0,0.0
+Hessen,22,0,0.0,22,100.0,0,0.0
+Nordrhein-Westfalen,42,0,0.0,42,100.0,0,0.0
+Rheinland-Pfalz,15,0,0.0,15,100.0,0,0.0
+Saarland,5,0,0.0,5,100.0,0,0.0
+Sachsen,23,0,0.0,23,100.0,0,0.0
+Sachsen-Anhalt,8,0,0.0,8,100.0,0,0.0
+Schleswig-Holstein,10,0,0.0,10,100.0,0,0.0
+Thüringen,11,0,0.0,11,100.0,0,0.0
+Total,283,4,1.4134275618374559,278,98.23321554770318,1,0.35335689045936397

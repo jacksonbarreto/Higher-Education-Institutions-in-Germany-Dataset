@@ -1,0 +1,459 @@
+id,region,name,category,url,axfr_domain,axfr_nameservers,has_axfr
+5,Baden-Württemberg,U Konstanz,Public,www.uni-konstanz.de,uni-konstanz.de,[],False
+3,Baden-Württemberg,U Hohenheim,Public,www.uni-hohenheim.de,uni-hohenheim.de,[],False
+6,Baden-Württemberg,U Stuttgart,Public,www.uni-stuttgart.de,uni-stuttgart.de,[],False
+7,Baden-Württemberg,U Tübingen,Public,www.uni-tuebingen.de,uni-tuebingen.de,[],False
+2,Baden-Württemberg,U Heidelberg in Heidelberg,Public,www.uni-heidelberg.de,uni-heidelberg.de,[],False
+8,Baden-Württemberg,U Ulm,Public,www.uni-ulm.de,uni-ulm.de,[],False
+10,Baden-Württemberg,"Freie Hochschule Stuttgart, Seminar für Waldorfpädagogik (U)",Private,www.freie-hochschule-stuttgart.de,freie-hochschule-stuttgart.de,[],False
+4,Baden-Württemberg,Karlsruher Institut für Technologie (KIT) - Bereich Hochschule (U),Public,www.kit.edu,kit.edu,[],False
+9,Baden-Württemberg,Zeppelin Universität Friedrichshafen (U),Private,www.zu.de,zu.de,[],False
+11,Bayern,U Augsburg,Public,www.uni-augsburg.de,uni-augsburg.de,[],False
+12,Bayern,U Bamberg,Public,www.uni-bamberg.de,uni-bamberg.de,[],False
+14,Bayern,Kath. U Eichstätt-Ingolstadt in Ingolstadt (U),Private,www.ku.de,ku.de,[],False
+13,Bayern,U Bayreuth,Public,www.uni-bayreuth.de,uni-bayreuth.de,[],False
+16,Bayern,U München,Public,www.lmu.de,lmu.de,[],False
+17,Bayern,TU München,Public,www.tum.de,tum.de,[],False
+15,Bayern,U Erlangen-Nürnberg in Erlangen,Public,www.fau.de,fau.de,[],False
+20,Bayern,U Würzburg,Public,www.uni-wuerzburg.de,uni-wuerzburg.de,[],False
+19,Bayern,U Regensburg,Public,www.uni-regensburg.de,uni-regensburg.de,[],False
+18,Bayern,U Passau,Public,www.uni-passau.de,uni-passau.de,[],False
+22,Berlin,TU Berlin,Public,www.tu.berlin,tu.berlin,[],False
+24,Berlin,ESCP Europe Wirtschaftshochschule Berlin (U),Private,www.escp.eu,escp.eu,[],False
+1,Baden-Württemberg,U Freiburg i.Br.,Public,www.uni-freiburg.de,uni-freiburg.de,[],False
+27,Berlin,"Bard College Berlin, A Liberal Arts University (U)",Private,www.berlin.bard.edu,bard.edu,[],False
+23,Berlin,Humboldt-Universität Berlin,Public,www.hu-berlin.de,hu-berlin.de,[],False
+21,Berlin,FU Berlin,Public,www.fu-berlin.de,fu-berlin.de,[],False
+26,Berlin,Psychologische Hochschule Berlin (U),Private,www.psychologische-hochschule.de,psychologische-hochschule.de,[],False
+29,Brandenburg,Europa-U Viadrina Frankfurt (Oder),Public,www.europa-uni.de,europa-uni.de,[],False
+30,Brandenburg,U Potsdam,Public,www.uni-potsdam.de,uni-potsdam.de,[],False
+31,Brandenburg,Medizinische Hochschule Brandenburg in Neuruppin (U),Private,www.mhb-fontane.de,mhb-fontane.de,[],False
+32,Brandenburg,Filmuniversität Babelsberg,Public,www.filmuniversitaet.de,filmuniversitaet.de,['195.37.64.2'],True
+25,Berlin,International Psychoanalytic University Berlin (U),Private,www.ipu-berlin.de,ipu-berlin.de,[],False
+34,Bremen,Jacobs University Bremen (U),Private,www.jacobs-university.de,jacobs-university.de,['81.169.212.166'],True
+38,Hamburg,Bucerius Law School Hamburg (U),Private,www.law-school.de,law-school.de,[],False
+39,Hamburg,KLU Kühne Logistics University (U),Private,www.the-klu.org,the-klu.org,[],False
+36,Hamburg,Technische Universität Hamburg,Public,www.tuhh.de,tuhh.de,[],False
+35,Hamburg,U Hamburg,Public,www.uni-hamburg.de,uni-hamburg.de,[],False
+37,Hamburg,Hafencity Universität Hamburg,Public,www.hcu-hamburg.de,hcu-hamburg.de,[],False
+41,Hessen,U Frankfurt a.M.,Public,www.uni-frankfurt.de,uni-frankfurt.de,[],False
+42,Hessen,U Gießen,Public,www.uni-giessen.de,uni-giessen.de,[],False
+40,Hessen,TU Darmstadt,Public,www.tu-darmstadt.de,tu-darmstadt.de,[],False
+45,Hessen,Frankfurt School of Finance & Management-HfB (U),Private,www.frankfurt-school.de,frankfurt-school.de,[],False
+47,Mecklenburg-Vorpommern,U Greifswald,Public,www.uni-greifswald.de,uni-greifswald.de,[],False
+46,Hessen,EBS U für Wirtschaft und Recht in Wiesbaden (U),Private,www.ebs.edu,ebs.edu,[],False
+44,Hessen,U Marburg,Public,www.uni-marburg.de,uni-marburg.de,[],False
+49,Niedersachsen,TU Braunschweig,Public,www.tu-braunschweig.de,tu-braunschweig.de,[],False
+48,Mecklenburg-Vorpommern,U Rostock,Public,www.uni-rostock.de,uni-rostock.de,[],False
+51,Niedersachsen,U Göttingen,Public,www.uni-goettingen.de,uni-goettingen.de,[],False
+52,Niedersachsen,U Hannover,Public,www.uni-hannover.de,uni-hannover.de,[],False
+50,Niedersachsen,TU Clausthal,Public,www.tu-clausthal.de,tu-clausthal.de,[],False
+54,Niedersachsen,U Hildesheim,Public,www.uni-hildesheim.de,uni-hildesheim.de,[],False
+53,Niedersachsen,Tierärztliche H Hannover (U),Public,www.tiho-hannover.de,tiho-hannover.de,[],False
+55,Niedersachsen,U Lüneburg,Public,www.leuphana.de,leuphana.de,[],False
+56,Niedersachsen,U Oldenburg,Public,www.uol.de,uol.de,[],False
+57,Niedersachsen,U Osnabrück,Public,www.uni-osnabrueck.de,uni-osnabrueck.de,[],False
+58,Niedersachsen,Universität Vechta,Public,www.uni-vechta.de,uni-vechta.de,[],False
+59,Nordrhein-Westfalen,TH Aachen (U),Public,www.rwth-aachen.de,rwth-aachen.de,[],False
+60,Nordrhein-Westfalen,U Bielefeld,Public,www.uni-bielefeld.de,uni-bielefeld.de,[],False
+61,Nordrhein-Westfalen,U Bochum,Public,www.ruhr-uni-bochum.de,ruhr-uni-bochum.de,[],False
+62,Nordrhein-Westfalen,U Bonn,Public,www.uni-bonn.de,uni-bonn.de,[],False
+63,Nordrhein-Westfalen,TU Dortmund,Public,www.tu-dortmund.de,tu-dortmund.de,[],False
+65,Nordrhein-Westfalen,Fernuniversität Hagen,Public,www.fernuni-hagen.de,fernuni-hagen.de,[],False
+66,Nordrhein-Westfalen,U Köln,Public,uni-koeln.de,uni-koeln.de,[],False
+64,Nordrhein-Westfalen,U Düsseldorf,Public,www.hhu.de,hhu.de,[],False
+67,Nordrhein-Westfalen,Deutsche Sporthochschule Köln (U),Public,www.dshs-koeln.de,dshs-koeln.de,[],False
+68,Nordrhein-Westfalen,U Münster,Public,www.uni-muenster.de,uni-muenster.de,[],False
+72,Nordrhein-Westfalen,Universität Witten-Herdecke (U),Private,www.uni-wh.de,uni-wh.de,[],False
+33,Bremen,U Bremen,Public,www.uni-bremen.de,uni-bremen.de,[],False
+70,Nordrhein-Westfalen,U Siegen,Public,www.uni-siegen.de,uni-siegen.de,[],False
+73,Rheinland-Pfalz,U Mainz in Mainz,Public,www.uni-mainz.de,uni-mainz.de,[],False
+71,Nordrhein-Westfalen,U Wuppertal,Public,www.uni-wuppertal.de,uni-wuppertal.de,[],False
+76,Rheinland-Pfalz,"Wissenschaftliche H für Unternehmensführung, Vallendar (U)",Private,www.whu.edu,whu.edu,[],False
+75,Rheinland-Pfalz,U Trier,Public,www.uni-trier.de,uni-trier.de,[],False
+74,Rheinland-Pfalz,Deutsche Universität für Verwaltungswissenschaften Speyer,Public,www.uni-speyer.de,uni-speyer.de,[],False
+69,Nordrhein-Westfalen,U Paderborn,Public,www.uni-paderborn.de,uni-paderborn.de,[],False
+78,Sachsen,TU Chemnitz,Public,www.tu-chemnitz.de,tu-chemnitz.de,[],False
+77,Saarland,U des Saarlandes Saarbrücken in Saarbrücken,Public,www.uni-saarland.de,uni-saarland.de,[],False
+79,Sachsen,TU Dresden in Dresden,Public,tu-dresden.de,tu-dresden.de,[],False
+83,Sachsen,HHL Leipzig Graduate School of Management (U),Private,www.hhl.de,hhl.de,[],False
+81,Sachsen,U Leipzig,Public,www.uni-leipzig.de,uni-leipzig.de,[],False
+80,Sachsen,TU Bergakademie Freiberg,Public,tu-freiberg.de,tu-freiberg.de,[],False
+82,Sachsen,DIU-Dresden International University (U),Private,www.di-uni.de,di-uni.de,[],False
+84,Sachsen-Anhalt,U Halle in Halle,Public,www.uni-halle.de,uni-halle.de,[],False
+85,Sachsen-Anhalt,U Magdeburg,Public,www.ovgu.de,ovgu.de,[],False
+88,Schleswig-Holstein,U Lübeck,Public,www.uni-luebeck.de,uni-luebeck.de,[],False
+86,Schleswig-Holstein,EUF Europa-Universität Flensburg,Public,www.uni-flensburg.de,uni-flensburg.de,[],False
+89,Thüringen,U Erfurt,Public,www.uni-erfurt.de,uni-erfurt.de,[],False
+87,Schleswig-Holstein,U Kiel,Public,www.uni-kiel.de,uni-kiel.de,[],False
+93,Hessen,Evangelische Hochschule Tabor in Marburg (Theol. H),Private,www.eh-tabor.de,eh-tabor.de,[],False
+90,Thüringen,TU Ilmenau,Public,www.tu-ilmenau.de,tu-ilmenau.de,[],False
+94,Nordrhein-Westfalen,Kirchliche Hochschule Wuppertal / Bethel in Bethel (Theol. H),Private,www.kiho-wuppertal.de,kiho-wuppertal.de,[],False
+95,Baden-Württemberg,Staatl. H für Musik Freiburg i.Br. (Kunst-H),Public,www.mh-freiburg.de,mh-freiburg.de,[],False
+92,Thüringen,Bauhaus-U Weimar,Public,www.uni-weimar.de,uni-weimar.de,[],False
+96,Baden-Württemberg,Staatl. Akademie der Bildenden Künste Karlsruhe (Kunst-H),Public,www.kunstakademie-karlsruhe.de,kunstakademie-karlsruhe.de,[],False
+97,Baden-Württemberg,Staatl. H für Gestaltung Karlsruhe (Kunst-H),Public,www.hfg-karlsruhe.de,hfg-karlsruhe.de,[],False
+98,Baden-Württemberg,Staatl. H für Musik Karlsruhe (Kunst-H),Public,www.hfm-karlsruhe.de,hfm-karlsruhe.de,[],False
+99,Baden-Württemberg,Staatl. H für Musik und Darstellende Kunst Mannheim (Kunst-H),Public,www.muho-mannheim.de,muho-mannheim.de,[],False
+103,Bayern,Akademie der Bildenden Künste München (Kunst-H),Public,www.adbk.de,adbk.de,[],False
+101,Baden-Württemberg,Staatl. H für Musik und Darstellende Kunst Stuttgart (Kunst-H),Public,www.hmdk-stuttgart.de,hmdk-stuttgart.de,[],False
+104,Bayern,Akademie der Bildenden Künste Nürnberg (Kunst-H),Public,www.adbk-nuernberg.de,adbk-nuernberg.de,[],False
+106,Bayern,H für Musik Würzburg (Kunst-H),Public,www.hfm-wuerzburg.de,hfm-wuerzburg.de,[],False
+107,Bayern,Hochschule für evangelische Kirchenmusik der Evangelisch-Lutherischen Kirche in Bayern,Private,www.hfk-bayreuth.de,hfk-bayreuth.de,[],False
+105,Bayern,H für Musik Nürnberg (Kunst-H),Public,www.hfm-nuernberg.de,hfm-nuernberg.de,[],False
+102,Baden-Württemberg,Staatl. H für Musik Trossingen (Kunst-H),Public,www.hfm-trossingen.de,hfm-trossingen.de,[],False
+108,Bayern,"H für kath. Kirchenmusik und Musikpädagogik, Regensburg (Kunst-H)",Private,www.hfkm-regensburg.de,hfkm-regensburg.de,[],False
+110,Berlin,Weißensee Kunsthochschule Berlin (Kunst-H),Public,www.kh-berlin.de,kh-berlin.de,[],False
+109,Berlin,U der Künste Berlin (Kunst-H),Public,www.udk-berlin.de,udk-berlin.de,[],False
+112,Berlin,H für Schauspielkunst Berlin (Kunst-H),Public,www.hfs-berlin.de,hfs-berlin.de,[],False
+111,Berlin,H für Musik Berlin (Kunst-H),Public,www.hfm-berlin.de,hfm-berlin.de,[],False
+116,Hessen,H für Bildende Künste - Städelschule Frankfurt a.M. (Kunst-H),Public,www.staedelschule.de,staedelschule.de,[],False
+113,Berlin,Barenboim-Said Akademie Berlin (Kunst-H),Private,www.barenboimsaid.de,barenboimsaid.de,[],False
+114,Bremen,H für Künste Bremen (Kunst-H),Public,www.hfk-bremen.de,hfk-bremen.de,[],False
+43,Hessen,U Kassel in Kassel,Public,www.uni-kassel.de,uni-kassel.de,[],False
+117,Hessen,H für Musik und Darstellende Kunst Frankfurt a.M. (Kunst-H),Public,www.hfmdk-frankfurt.de,hfmdk-frankfurt.de,[],False
+118,Hessen,H für Gestaltung Offenbach (Kunst-H),Public,www.hfg-offenbach.de,hfg-offenbach.de,[],False
+121,Niedersachsen,"Hochschule für Musik, Theater und Medien Hannover (Kunst-H)",Public,www.hmtm-hannover.de,hmtm-hannover.de,[],False
+120,Niedersachsen,H für Bildende Künste Braunschweig (Kunst-H),Public,www.hbk-bs.de,hbk-bs.de,[],False
+119,Mecklenburg-Vorpommern,H für Musik und Theater Rostock (Kunst-H),Public,www.hmt-rostock.de,hmt-rostock.de,[],False
+122,Nordrhein-Westfalen,H für Musik Detmold (Kunst-H),Public,www.hfm-detmold.de,hfm-detmold.de,[],False
+123,Nordrhein-Westfalen,Kunstakademie Düsseldorf (Kunst-H),Public,www.kunstakademie-duesseldorf.de,kunstakademie-duesseldorf.de,[],False
+91,Thüringen,U Jena,Public,www.uni-jena.de,uni-jena.de,[],False
+125,Nordrhein-Westfalen,Folkwang U der Künste Essen in Bochum (Kunst-H),Public,www.folkwang-uni.de,folkwang-uni.de,[],False
+126,Nordrhein-Westfalen,KH für Medien Köln (Kunst-H),Public,www.khm.de,khm.de,[],False
+129,Nordrhein-Westfalen,Alanus H Alfter (Kunst-H),Private,www.alanus.edu,alanus.edu,[],False
+124,Nordrhein-Westfalen,Robert-Schumann-H Düsseldorf (Kunst-H),Public,www.rsh-duesseldorf.de,rsh-duesseldorf.de,[],False
+130,Nordrhein-Westfalen,Hochschule der bildenden Künste (HBK) Essen (Kunst-H),Private,Www.hbk-essen.de,hbk-essen.de,[],False
+127,Nordrhein-Westfalen,H für Musik und Tanz Köln,Public,www.hfmt-koeln.de,hfmt-koeln.de,[],False
+128,Nordrhein-Westfalen,Kunstakademie Münster (Kunst-H),Public,www.kunstakademie-muenster.de,kunstakademie-muenster.de,[],False
+132,Sachsen,H für Bildende Künste Dresden (Kunst-H),Public,www.hfbk-dresden.de,hfbk-dresden.de,[],False
+100,Baden-Württemberg,Staatl. Akademie der Bildenden Künste Stuttgart (Kunst-H),Public,www.abk-stuttgart.de,abk-stuttgart.de,[],False
+135,Sachsen,Palucca Hochschule für Tanz Dresden (Kunst-H),Public,www.palucca.eu,palucca.eu,[],False
+131,Saarland,H der Bildenden Künste Saarbrücken (Kunst-H),Public,www.hbksaar.de,hbksaar.de,[],False
+134,Sachsen,H für Musik Dresden (Kunst-H),Public,www.hfmdd.de,hfmdd.de,[],False
+133,Sachsen,"H für Kirchenmusik der Evang.-Luth. Landeskirche Sachsens, Dresden (Kunst-H)",Private,www.kirchenmusik-dresden.de,kirchenmusik-dresden.de,[],False
+28,Brandenburg,Brandenburgische TU Cottbus-Senftenberg,Public,www.b-tu.de,b-tu.de,[],False
+138,Sachsen-Anhalt,Burg Giebichenstein Kunsthochschule Halle (Kunst-H),Public,www.burg-halle.de,burg-halle.de,[],False
+137,Sachsen,H für Musik und Theater Leipzig (Kunst-H),Public,www.hmt-leipzig.de,hmt-leipzig.de,[],False
+136,Sachsen,H für Graphik und Buchkunst Leipzig (Kunst-H),Public,www.hgb-leipzig.de,hgb-leipzig.de,[],False
+141,Schleswig-Holstein,Musikhochschule Lübeck (Kunst-H),Public,www.mh-luebeck.de,mh-luebeck.de,[],False
+140,Schleswig-Holstein,Muthesius Kunsthochschule Kiel (Kunst-H),Public,www.muthesius-kunsthochschule.de,muthesius-kunsthochschule.de,[],False
+139,Sachsen-Anhalt,Evang. H für Kirchenmusik Halle (Kunst-H),Private,www.ehk-halle.de,ehk-halle.de,[],False
+143,Baden-Württemberg,Hochschule Aalen - Technik und Wirtschaft in Aalen (FH),Public,www.hs-aalen.de,hs-aalen.de,[],False
+146,Baden-Württemberg,H Esslingen in Esslingen (FH),Public,www.hs-esslingen.de,hs-esslingen.de,[],False
+147,Baden-Württemberg,H Furtwangen in Furtwangen (FH),Public,www.hs-furtwangen.de,hs-furtwangen.de,[],False
+144,Baden-Württemberg,H Albstadt-Sigmaringen in Albstadt (FH),Public,www.hs-albsig.de,hs-albsig.de,[],False
+142,Thüringen,H für Musik Weimar (Kunst-H),Public,www.hfm-weimar.de,hfm-weimar.de,[],False
+151,Baden-Württemberg,H Mannheim (FH),Public,www.hs-mannheim.de,hs-mannheim.de,[],False
+150,Baden-Württemberg,H Konstanz (FH),Public,www.htwg-konstanz.de,htwg-konstanz.de,[],False
+149,Baden-Württemberg,H Karlsruhe (FH),Public,www.h-ka.de,h-ka.de,[],False
+153,Baden-Württemberg,H Offenburg (FH),Public,www.hs-offenburg.de,hs-offenburg.de,[],False
+157,Baden-Württemberg,H für Forstwirtschaft Rottenburg (FH),Public,www.hs-rottenburg.net,hs-rottenburg.net,[],False
+154,Baden-Württemberg,H Pforzheim (FH),Public,www.hs-pforzheim.de,hs-pforzheim.de,[],False
+156,Baden-Württemberg,H für Technik und Wirtschaft Reutlingen (FH),Public,www.reutlingen-university.de,reutlingen-university.de,[],False
+155,Baden-Württemberg,H Ravensburg-Weingarten (FH),Public,www.rwu.de,rwu.de,[],False
+161,Baden-Württemberg,"Hochschule Macromedia für angewandte Wissenschaften Stuttgart, Campus Stuttgart (FH)",Private,www.macromedia-fachhochschule.de,macromedia-fachhochschule.de,[],False
+158,Baden-Württemberg,H für Gestaltung Schwäbisch Gmünd (FH),Public,www.hfg-gmuend.de,hfg-gmuend.de,[],False
+159,Baden-Württemberg,"FH Stuttgart, H der Medien",Public,www.hdm-stuttgart.de,hdm-stuttgart.de,[],False
+160,Baden-Württemberg,Hochschule für Technik Stuttgart,Public,www.hft-stuttgart.de,hft-stuttgart.de,[],False
+163,Baden-Württemberg,Hochschule der Wirtschaft für Management (HdWM) Mannheim (FH),Private,www.hdwm.de,hdwm.de,[],False
+162,Baden-Württemberg,"Karlshochschule International University, Karlsruhe (FH)",Private,www.karlshochschule.de,karlshochschule.de,[],False
+164,Baden-Württemberg,Hochschule für Kommunikation und Gestaltung in Stuttgart (FH),Private,www.hfk-bw.de,hfk-bw.de,[],False
+166,Baden-Württemberg,"SRH Fernhochschule, Riedlingen (FH)",Private,www.mobile-university.de,mobile-university.de,[],False
+165,Baden-Württemberg,Hochschule Fresenius Heidelberg (FH),Private,www.hs-fresenius.de,hs-fresenius.de,[],False
+167,Baden-Württemberg,VWA-Hochschule für berufsbegleitendes Studium Stuttgart in Freiburg (FH),Private,www.vwa-hochschule.de,vwa-hochschule.de,[],False
+169,Baden-Württemberg,media Akademie - Hochschule Stuttgart (FH),Private,www.media-hs.de,media-hs.de,[],False
+168,Baden-Württemberg,Allensbach Hochschule Konstanz (FH),Private,www.allensbach-hochschule.de,allensbach-hochschule.de,[],False
+170,Baden-Württemberg,"Merz Akademie Hochschule für Gestaltung, Kunst und Medien, Stuttgart (FH)",Private,www.merz-akademie.de,merz-akademie.de,[],False
+171,Baden-Württemberg,Evang. Hochschule Freiburg (FH),Private,www.eh-freiburg.de,eh-freiburg.de,[],False
+172,Baden-Württemberg,Theologisches Seminar Reutlingen (FH),Private,www.th-reutlingen.de,th-reutlingen.de,[],False
+174,Baden-Württemberg,"Kath. Hochschule Freiburg i.Br., Campus Freiburg (FH)",Private,www.kh-freiburg.de,kh-freiburg.de,[],False
+176,Bayern,Hochschule für angewandte Wissenschaften Ansbach in Ansbach (FH),Public,www.hs-ansbach.de,hs-ansbach.de,[],False
+173,Baden-Württemberg,Evangelische Hochschule Ludwigsburg in Ludwigsburg (FH),Private,www.eh-ludwigsburg.de,eh-ludwigsburg.de,['88.99.59.87'],True
+175,Bayern,Ostbayerische Technische Hochschule Amberg-Weiden (FH) in Amberg,Public,www.oth-aw.de,oth-aw.de,[],False
+179,Bayern,Hochschule für angewandte Wissenschaften Coburg (FH),Public,www.hs-coburg.de,hs-coburg.de,[],False
+177,Bayern,TH Aschaffenburg (FH),Public,www.th-ab.de,th-ab.de,"['193.174.127.242', '193.174.127.241']",True
+178,Bayern,Hochschule für angewandte Wissenschaften Augsburg (FH),Public,www.hs-augsburg.de,hs-augsburg.de,[],False
+180,Bayern,Technische Hochschule Deggendorf (FH),Public,www.th-deg.de,th-deg.de,[],False
+115,Hamburg,H für Bildende Künste Hamburg (Kunst-H),Public,www.hfbk-hamburg.de,hfbk-hamburg.de,[],False
+145,Baden-Württemberg,H Biberach a. d. Riss (FH),Public,www.hochschule-biberach.de,hochschule-biberach.de,[],False
+152,Baden-Württemberg,H Nürtingen-Geislingen (FH),Public,www.hfwu.de,hfwu.de,[],False
+181,Bayern,Hochschule für angewandte Wissenschaften Hof in Hof (FH),Public,www.hof-university.de,hof-university.de,[],False
+148,Baden-Württemberg,H Heilbronn in Heilbronn (FH),Public,www.hs-heilbronn.de,hs-heilbronn.de,[],False
+183,Bayern,Hochschule für angewandte Wissenschaften Kempten (FH),Public,www.hs-kempten.de,hs-kempten.de,[],False
+188,Bayern,Ostbayerische Technische Hochschule Regensburg (FH),Public,www.oth-regensburg.de,oth-regensburg.de,[],False
+185,Bayern,Hochschule für angewandte Wissenschaften München (FH),Public,www.hm.edu,hm.edu,[],False
+187,Bayern,Technische Hochschule Nürnberg Georg Simon Ohm (FH),Public,www.th-nuernberg.de,th-nuernberg.de,[],False
+191,Bayern,HDBW Hochschule der Bayerischen Wirtschaft für angewandte Wissenschaften in München (FH),Private,www.hdbw-hochschule.de,hdbw-hochschule.de,[],False
+193,Bayern,Internationale Hochschule SDI München-Hochschule für angewandte Wissenschaften (FH),Private,www.sdi-muenchen.de,sdi-muenchen.de,[],False
+189,Bayern,TH Rosenheim in Rosenheim (FH),Public,www.th-rosenheim.de,th-rosenheim.de,[],False
+194,Bayern,Munich Business School München (FH),Private,www.munich-business-school.de,munich-business-school.de,[],False
+190,Bayern,H für angewandte Wissenschaften Weihenstephan-Triesdorf (FH) in Triesdorf,Public,www.hswt.de,hswt.de,[],False
+192,Bayern,"Hochschule für angewandtes Management, Ismaning (FH)",Private,www.fham.de,fham.de,[],False
+195,Bayern,"SRH Wilhelm Löhe Hochschule, Fürth (FH)",Private,www.srh-hochschule-fuerth.de,srh-hochschule-fuerth.de,[],False
+197,Bayern,Katholische Stiftungshochschule München (FH),Private,www.ksh-muenchen.de,ksh-muenchen.de,[],False
+182,Bayern,Technische Hochschule Ingolstadt in Ingolstadt (FH),Public,www.thi.de,thi.de,[],False
+196,Bayern,Evang. Hochschule Nürnberg (FH),Private,www.evhn.de,evhn.de,[],False
+199,Berlin,Berliner Hochschule für Technik (FH),Public,www.bht-berlin.de,bht-berlin.de,[],False
+184,Bayern,Hochschule für angewandte Wissenschaften Landshut (FH),Public,www.haw-landshut.de,haw-landshut.de,[],False
+200,Berlin,H für Technik und Wirtschaft Berlin (FH),Public,www.htw-berlin.de,htw-berlin.de,[],False
+186,Bayern,Hochschule für angewandte Wissenschaften Neu-Ulm (FH),Public,www.hnu.de,hnu.de,[],False
+202,Berlin,BSP Business and Law School - Hochschule für Management und Recht Berlin in Berlin (FH),Private,www.businessschool-berlin.de,businessschool-berlin.de,[],False
+204,Berlin,Akkon Hochschule Berlin (FH),Private,www.akkon-hochschule.de,akkon-hochschule.de,[],False
+201,Berlin,"HWR Berlin, Fachbereich Wirtschaft (FH)",Public,www.hwr-berlin.de,hwr-berlin.de,[],False
+205,Berlin,"Medical School Berlin, H für Gesundheit und Medizin (FH)",Private,www.medicalschool-berlin.de,medicalschool-berlin.de,[],False
+206,Berlin,Digital Business University Berlin (FH),Private,www.dbuas.de,dbuas.de,[],False
+207,Berlin,"H für Medien, Kommunikation und Wirtschaft Berlin in Berlin (FH)",Private,www.hmkw.de,hmkw.de,[],False
+208,Berlin,SRH Berlin University of Applied Sciences in Berlin (FH),Private,www.srh-berlin.de,srh-berlin.de,[],False
+212,Berlin,DEKRA Hochschule für Medien Berlin (FH),Private,www.dekra-hochschule.de,dekra-hochschule.de,[],False
+210,Berlin,Hochschule für angewandte Pädagogik Berlin (FH),Private,www.hsap.de,hsap.de,[],False
+213,Berlin,Quadriga Hochschule Berlin (FH),Private,www.quadriga-hochschule.com,quadriga-hochschule.com,[],False
+209,Berlin,CODE University of Applied Sciences Berlin (FH),Private,code.berlin,code.berlin,[],False
+211,Berlin,Berlin International University of Applied Sciences (FH),Private,www.berlin-international.de,berlin-international.de,[],False
+214,Berlin,Evangelische Hochschule Berlin (FH),Private,www.eh-berlin.de,eh-berlin.de,[],False
+215,Berlin,Katholische Hochschule für Sozialwesen Berlin (FH),Private,www.khsb-berlin.de,khsb-berlin.de,[],False
+203,Berlin,bbw Hochschule Berlin (FH),Private,www.bbw-hochschule.de,bbw-hochschule.de,[],False
+219,Brandenburg,Fachhochschule für Sport und Management Potsdam (FH),Private,www.fhsmp.de,fhsmp.de,[],False
+217,Brandenburg,Hochschule für nachhaltige Entwicklung Eberswalde (FH),Public,www.hnee.de,hnee.de,[],False
+218,Brandenburg,FH Potsdam,Public,www.fh-potsdam.de,fh-potsdam.de,[],False
+222,Brandenburg,Fachhochschule Clara Hoffbauer Potsdam (FH),Private,www.fhchp.de,fhchp.de,[],False
+220,Brandenburg,Technische Hochschule Wildau (FH),Public,www.th-wildau.de,th-wildau.de,[],False
+223,Brandenburg,XU Exponential University Potsdam (FH),Private,xu-university.com,xu-university.com,[],False
+221,Brandenburg,Theologische Hochschule Elstal (FH),Private,www.th-elstal.de,th-elstal.de,[],False
+224,Brandenburg,GISMA Business School Potsdam (FH),Private,www.gisma.com,gisma.com,[],False
+216,Brandenburg,Technische Hochschule Brandenburg (FH),Public,www.th-brandenburg.de,th-brandenburg.de,[],False
+227,Bremen,APOLLON H der Gesundheitswirtschaft Bremen (FH),Private,www.apollon-hochschule.de,apollon-hochschule.de,[],False
+229,Hamburg,Europ. Fern-H Hamburg GmbH Hamburg (FH),Private,www.euro-fh.de,euro-fh.de,[],False
+228,Hamburg,H für Angewandte Wissenschaften Hamburg (FH),Public,www.haw-hamburg.de,haw-hamburg.de,[],False
+230,Hamburg,HFH Hamburger Fern-H (FH),Private,www.hfh-fernstudium.de,hfh-fernstudium.de,[],False
+225,Bremen,H Bremen (FH),Public,www.hs-bremen.de,hs-bremen.de,[],False
+226,Bremen,H Bremerhaven (FH),Public,www.hs-bremerhaven.de,hs-bremerhaven.de,[],False
+231,Hamburg,HSBA Hamburg School of Business Admin. (FH),Private,www.hsba.de,hsba.de,[],False
+233,Hamburg,Northern Business School Hamburg (FH),Private,www.nbs.de,nbs.de,[],False
+234,Hamburg,Brand University Hamburg (FH),Private,www.brand-university.de,brand-university.de,[],False
+232,Hamburg,"Evang. H für Soziale Arbeit und Diakonie, Hamburg (FH)",Private,www.ev-hochschule-hh.de,ev-hochschule-hh.de,[],False
+236,Hessen,Frankfurt University of Applied Sciences (FH),Public,www.frankfurt-university.de,frankfurt-university.de,[],False
+235,Hessen,h_da - H Darmstadt in Darmstadt (FH),Public,www.h-da.de,h-da.de,[],False
+239,Hessen,Hochschule RheinMain (FH) in Rüsselsheim,Public,www.hs-rm.de,hs-rm.de,[],False
+238,Hessen,Technische Hochschule Mittelhessen (THM) in Friedberg (FH),Public,www.thm.de,thm.de,[],False
+237,Hessen,Hochschule Fulda (FH),Public,www.hs-fulda.de,hs-fulda.de,[],False
+241,Hessen,"Provadis School of Intern. Management and Technology, Frankfurt a.M. (FH)",Private,www.provadis-hochschule.de,provadis-hochschule.de,[],False
+244,Hessen,"Evangelische Hochschule Darmstadt (EHD), (FH)",Private,www.eh-darmstadt.de,eh-darmstadt.de,[],False
+240,Hessen,accadis Hochschule Bad Homburg (FH),Private,www.accadis.com,accadis.com,[],False
+242,Hessen,UoL-University of Labour Frankfurt (FH),Private,www.university-of-labour.de,university-of-labour.de,[],False
+245,Hessen,CVJM-Hochschule Kassel (FH),Private,www.cvjm-hochschule.de,cvjm-hochschule.de,[],False
+246,Mecklenburg-Vorpommern,Hochschule Neubrandenburg (FH),Public,www.hs-nb.de,hs-nb.de,[],False
+247,Mecklenburg-Vorpommern,Hochschule Stralsund (FH),Public,www.hochschule-stralsund.de,hochschule-stralsund.de,[],False
+249,Niedersachsen,Hochschule Braunschweig-Wolfenbüttel in Salzgitter (FH),Public,www.ostfalia.de,ostfalia.de,[],False
+250,Niedersachsen,Hochschule Emden/Leer in Emden (FH),Public,www.hs-emden-leer.de,hs-emden-leer.de,[],False
+251,Niedersachsen,Hochschule Hannover (FH),Public,www.hs-hannover.de,hs-hannover.de,[],False
+248,Mecklenburg-Vorpommern,Hochschule Wismar (FH),Public,www.hs-wismar.de,hs-wismar.de,[],False
+198,Berlin,Alice Salomon Hochschule Berlin (FH),Public,www.ash-berlin.eu,ash-berlin.eu,[],False
+253,Niedersachsen,Hochschule Hildesheim/Holzminden/Göttingen in Göttingen (FH),Public,www.hawk.de,hawk.de,[],False
+252,Niedersachsen,"Hochschule Weserbergland (HSW), Hameln (FH)",Private,www.hsw-hameln.de,hsw-hameln.de,[],False
+254,Niedersachsen,Hochschule Wilhelmshaven/Oldenburg/Elsfleth in Elsfleth (FH),Public,www.jade-hs.de,jade-hs.de,[],False
+258,Niedersachsen,Fachhochschule für die Wirtschaft Hannover (FHDW) (FH),Private,www.fhdw-hannover.de,fhdw-hannover.de,[],False
+255,Niedersachsen,Hochschule Osnabrück in Osnabrück (FH),Public,www.hs-osnabrueck.de,hs-osnabrueck.de,[],False
+256,Niedersachsen,"Hochschule21, Buxtehude (FH)",Private,www.hs21.de,hs21.de,[],False
+257,Niedersachsen,FH für Interkulturelle Theologie Hermannsburg (FH),Private,www.fh-hermannsburg.de,fh-hermannsburg.de,[],False
+260,Niedersachsen,H für Wirtschaft und Technik Vechta/Diepholz in Diepholz (FH),Private,www.phwt.de,phwt.de,[],False
+261,Niedersachsen,Leibniz - Fachhochschule Hannover (FH),Private,www.leibniz-fh.de,leibniz-fh.de,[],False
+259,Niedersachsen,FH Ottersberg (FH),Private,www.hks-ottersberg.de,hks-ottersberg.de,[],False
+265,Nordrhein-Westfalen,Hochschule für Gesundheit Bochum (FH),Public,www.hs-gesundheit.de,hs-gesundheit.de,[],False
+264,Nordrhein-Westfalen,Hochschule Bochum (FH) in Bochum,Public,www.hochschule-bochum.de,hochschule-bochum.de,[],False
+267,Nordrhein-Westfalen,FH Dortmund,Public,www.fh-dortmund.de,fh-dortmund.de,[],False
+262,Nordrhein-Westfalen,FH Aachen in Aachen,Public,www.fh-aachen.de,fh-aachen.de,[],False
+266,Nordrhein-Westfalen,H Bonn-Rhein-Sieg in Rheinbach (FH),Public,www.h-brs.de,h-brs.de,['194.95.70.4'],True
+269,Nordrhein-Westfalen,Westfälische H in Gelsenkirchen/Bocholt/Recklinghausen (FH) in Bocholt,Public,www.w-hs.de,w-hs.de,[],False
+272,Nordrhein-Westfalen,TH Ostwestfalen-Lippe in Lemgo/Detmold/Höxter in Detmold (FH),Public,www.th-owl.de,th-owl.de,[],False
+271,Nordrhein-Westfalen,Technische Hochschule Köln (FH) in Gummersbach,Public,www.th-koeln.de,th-koeln.de,[],False
+270,Nordrhein-Westfalen,H Hamm-Lippstadt in Hamm (FH),Public,www.hshl.de,hshl.de,[],False
+273,Nordrhein-Westfalen,FH Münster in Münster,Public,www.fh-muenster.de,fh-muenster.de,[],False
+275,Nordrhein-Westfalen,H Rhein-Waal in Kleve (FH),Public,www.hochschule-rhein-waal.de,hochschule-rhein-waal.de,[],False
+268,Nordrhein-Westfalen,H Düsseldorf (FH),Public,www.hs-duesseldorf.de,hs-duesseldorf.de,[],False
+274,Nordrhein-Westfalen,H Niederrhein in Krefeld (FH),Public,www.hs-niederrhein.de,hs-niederrhein.de,[],False
+277,Nordrhein-Westfalen,H Ruhr-West (FH) in Bottrop,Public,www.hochschule-ruhr-west.de,hochschule-ruhr-west.de,[],False
+276,Nordrhein-Westfalen,FH Südwestfalen in Hagen,Public,www.fh-swf.de,fh-swf.de,"['193.174.68.5', '193.174.68.226']",True
+279,Nordrhein-Westfalen,"Kolping H, Köln (FH)",Private,www.kolping-hochschule.de,kolping-hochschule.de,[],False
+278,Nordrhein-Westfalen,Fliedner Fachhochschule Düsseldorf (FH),Private,www.fliedner-fachhochschule.de,fliedner-fachhochschule.de,[],False
+283,Nordrhein-Westfalen,IST-Hochschule für Management Düsseldorf (FH),Private,www.ist-hochschule.de,ist-hochschule.de,[],False
+282,Nordrhein-Westfalen,H für Finanzwirtschaft & Management Bonn (FH),Private,www.s-hochschule.de,s-hochschule.de,[],False
+280,Nordrhein-Westfalen,TH Georg Agricola Bochum (FH),Private,www.thga.de,thga.de,[],False
+285,Nordrhein-Westfalen,"CBS International Business School, Campus Köln (FH)",Private,cbs.de,cbs.de,[],False
+287,Nordrhein-Westfalen,FH der Wirtschaft Paderborn in Bergisch-Gladbach (FH),Private,www.fhdw.de,fhdw.de,[],False
+243,Hessen,DIPLOMA - FH Nordhessen in Bad Sooden-Allendorf (FH),Private,www.diploma.de,diploma.de,[],False
+286,Nordrhein-Westfalen,Rheinische FH Köln in Köln (FH),Private,www.rfh-koeln.de,rfh-koeln.de,[],False
+281,Nordrhein-Westfalen,EBZ Business School Bochum (FH),Private,www.ebz-business-school.de,ebz-business-school.de,[],False
+291,Rheinland-Pfalz,Technische Hochschule Bingen (FH),Public,www.th-bingen.de,th-bingen.de,[],False
+289,Nordrhein-Westfalen,"Evang. Hochschule Rheinland-Westfalen-Lippe, Bochum (FH)",Private,www.evh-bochum.de,evh-bochum.de,"['193.175.203.74', '193.175.203.72']",True
+290,Nordrhein-Westfalen,Kath. Hochschule Nordrhein-Westfalen in Aachen (FH),Private,www.katho-nrw.de,katho-nrw.de,[],False
+284,Nordrhein-Westfalen,SRH Hochschule Nordrhein-Westfalen Hamm in Hamm (FH),Private,www.srh-hochschule-nrw.de,srh-hochschule-nrw.de,[],False
+296,Rheinland-Pfalz,Hochschule Trier (FH) in Birkenfeld,Public,www.hochschule-trier.de,hochschule-trier.de,[],False
+294,Rheinland-Pfalz,Hochschule für Wirtschaft und Gesellschaft Ludwigshafen (FH),Public,www.hwg-lu.de,hwg-lu.de,[],False
+295,Rheinland-Pfalz,Hochschule Mainz (FH),Public,www.hs-mainz.de,hs-mainz.de,[],False
+293,Rheinland-Pfalz,Hochschule Koblenz (FH) in Höhr-Grenzhausen,Public,www.hs-koblenz.de,hs-koblenz.de,[],False
+292,Rheinland-Pfalz,Hochschule Kaiserslautern in Kaiserslautern (FH),Public,www.hs-kl.de,hs-kl.de,['217.198.242.251'],True
+297,Rheinland-Pfalz,Hochschule Worms (FH),Public,www.hs-worms.de,hs-worms.de,[],False
+298,Rheinland-Pfalz,Katholische Hochschule Mainz (FH),Private,www.kh-mz.de,kh-mz.de,[],False
+299,Rheinland-Pfalz,Cusanus Hochschule für Gesellschaftsgestaltung Bernkastel-Kues (FH),Private,www.cusanus-hochschule.de,cusanus-hochschule.de,[],False
+301,Saarland,"Deutsche Hochschule für Prävention und Gesundheitsmanagement, Saarbrücken (FH)",Private,www.dhfpg.de,dhfpg.de,[],False
+303,Sachsen,"H für Technik, Wirtschaft und Kultur Leipzig, Hochschule für angewandte Wissenschaften (FH)",Public,www.htwk-leipzig.de,htwk-leipzig.de,[],False
+300,Saarland,H für Technik und Wirtschaft des Saarlandes Saarbrücken (FH),Public,www.htwsaar.de,htwsaar.de,[],False
+302,Sachsen,"H für Technik und Wirtschaft Dresden, Hochschule für angewandte Wissenschaften (FH)",Public,www.htw-dresden.de,htw-dresden.de,[],False
+305,Sachsen,"H Zittau/Görlitz, Hochschule für angewandte Wissenschaften (FH)",Public,www.hszg.de,hszg.de,[],False
+307,Sachsen,Evangelische Hochschule Dresden in Dresden (FH),Private,www.ehs-dresden.de,ehs-dresden.de,[],False
+263,Nordrhein-Westfalen,FH Bielefeld in Bielefeld,Public,www.fh-bielefeld.de,fh-bielefeld.de,[],False
+304,Sachsen,"H Mittweida (University of Applied Sciences), Hochschule für angewandte Wissenschaften (FH)",Public,www.hs-mittweida.de,hs-mittweida.de,[],False
+308,Sachsen,Fachhochschule Dresden (FH),Private,www.fh-dresden.eu,fh-dresden.eu,[],False
+310,Sachsen-Anhalt,H Magdeburg-Stendal in Magdeburg (FH),Public,www.h2.de,h2.de,[],False
+309,Sachsen-Anhalt,H Anhalt in Bernburg (FH),Public,www.hs-anhalt.de,hs-anhalt.de,[],False
+313,Schleswig-Holstein,"FH Westküste, Heide",Public,www.fh-westkueste.de,fh-westkueste.de,[],False
+312,Schleswig-Holstein,Hochschule Flensburg (FH),Public,www.hs-flensburg.de,hs-flensburg.de,[],False
+314,Schleswig-Holstein,FH Kiel,Public,www.fh-kiel.de,fh-kiel.de,[],False
+315,Schleswig-Holstein,Technische Hochschule Lübeck (FH),Public,www.th-luebeck.de,th-luebeck.de,[],False
+317,Schleswig-Holstein,FH Wedel (FH),Private,www.fh-wedel.de,fh-wedel.de,[],False
+318,Schleswig-Holstein,"DHSH - Duale Hochschule Schleswig-Holstein, Kiel (FH)",Private,www.dhsh.de,dhsh.de,[],False
+316,Schleswig-Holstein,Hochschule der Wirtschaft (Nordakademie) Elmshorn (FH),Private,www.nordakademie.de,nordakademie.de,[],False
+319,Thüringen,FH Erfurt,Public,www.fh-erfurt.de,fh-erfurt.de,[],False
+322,Thüringen,Hochschule Schmalkalden (FH),Public,www.hs-schmalkalden.de,hs-schmalkalden.de,[],False
+306,Sachsen,"Westsächsische H Zwickau, Hochschule für angewandte Wissenschaften (FH)",Public,www.fh-zwickau.de,fh-zwickau.de,[],False
+323,Thüringen,SRH FH für Gesundheit Gera (FH),Private,www.srh-gesundheitshochschule.de,srh-gesundheitshochschule.de,[],False
+311,Sachsen-Anhalt,Hochschule Merseburg (FH),Public,www.hs-merseburg.de,hs-merseburg.de,[],False
+321,Thüringen,Hochschule Nordhausen (FH),Public,www.hs-nordhausen.de,hs-nordhausen.de,[],False
+324,Baden-Württemberg,FH für öffentliche Verwaltung Kehl (Verw-FH),Public,www.hs-kehl.de,hs-kehl.de,[],False
+325,Baden-Württemberg,Hochschule Ludwigsburg für öffentliche Verwaltung und Finanzen (Verw-FH),Public,www.hs-ludwigsburg.de,hs-ludwigsburg.de,[],False
+327,Baden-Württemberg,Staatl. H für Polizei Villingen-Schwenningen (Verw-FH),Public,www.hfpol-bw.de,hfpol-bw.de,[],False
+320,Thüringen,Ernst-Abbe-Hochschule Jena (FH),Public,www.eah-jena.de,eah-jena.de,[],False
+326,Baden-Württemberg,FH für Rechtspflege Schwetzingen (Verw-FH),Public,www.fh-schwetzingen.de,fh-schwetzingen.de,[],False
+329,Brandenburg,Hochschule der Polizei Brandenburg in Oranienburg (Verw-FH),Public,hpolbb.de,hpolbb.de,[],False
+328,Bayern,Hochschule für den öffentlichen Dienst in Bayern Standort Fürstenfeldbruck (Polizei) (Verw-FH),Public,www.fhvr.bayern.de,bayern.de,[],False
+330,Bremen,H für öffentliche Verwaltung Bremen (Verw-FH),Public,www.hfoev.bremen.de,bremen.de,[],False
+332,Hessen,FH für Archivwesen Marburg (Verw-FH),Public,www.archivschule.de,archivschule.de,[],False
+335,Mecklenburg-Vorpommern,"FH für öffentliche Verwaltung, Polizei und Rechtspflege in Güstrow (Verw-FH)",Public,www.fh-guestrow.de,fh-guestrow.de,[],False
+337,Nordrhein-Westfalen,FH für Rechtspflege NW in Bad Münstereifel (Verw-FH),Public,www.fhr.nrw.de,nrw.de,[],False
+339,Rheinland-Pfalz,Hochschule für Finanzen Rheinland-Pfalz (HFin) in Edenkoben (Verw-FH),Public,landesfinanzschule-edenkoben.fin-rlp.de,fin-rlp.de,[],False
+331,Hamburg,Akademie der Polizei Hamburg (Verw-FH),Public,akademie-der-polizei.hamburg.de,hamburg.de,[],False
+342,Schleswig-Holstein,FH für Verwaltung und Dienstleistung Altenholz in Altenholz (Verw-FH),Public,www.fhvd-sh.de,fhvd-sh.de,[],False
+333,Hessen,Hessische Hochschule für Finanzen und Rechtspflege Rotenburg (Verw-FH),Public,studienzentrum-rotenburg.hessen.de,hessen.de,[],False
+334,Hessen,Hessische Hochschule für Polizei und Verwaltung Wiesbaden in Gießen (Verw-FH),Public,hoems.hessen.de,hessen.de,[],False
+340,Rheinland-Pfalz,"Hochschule für öffentliche Verwaltung Rheinland-Pfalz (HöV) Mayen, FB Innere Verwaltung in Mayen",Public,hoev-rlp.de,hoev-rlp.de,[],False
+341,Sachsen-Anhalt,"FH Polizei Sachsen-Anhalt, Aschersleben (Verw-FH)",Public,fh-polizei.sachsen-anhalt.de,sachsen-anhalt.de,[],False
+344,Berlin,Touro College Berlin (FH),Private,www.touroberlin.de,touroberlin.de,[],False
+336,Niedersachsen,Norddeutsche Hochschule für Rechtspflege Hildesheim (Verw-FH),Public,www.hr-nord.niedersachsen.de,niedersachsen.de,[],False
+345,Berlin,Hertie School of Governance Berlin (U),Private,www.hertie-school.org,hertie-school.org,[],False
+343,Thüringen,Thüringer FH für öffentliche Verwaltung Gotha (Verw-FH),Public,bildungszentrum.thueringen.de,thueringen.de,[],False
+348,Sachsen-Anhalt,H Harz in Halberstadt (FH),Public,www.hs-harz.de,hs-harz.de,[],False
+350,Baden-Württemberg,Wissenschaftliche H Bierbronnen (U),Private,www.siewerth-akademie.de,siewerth-akademie.de,[],False
+338,Nordrhein-Westfalen,Hochschule für Polizei und öffentliche Verwaltung NW in Aachen (Verw-FH),Public,www.hspv.nrw.de,nrw.de,[],False
+347,Hamburg,H für Musik und Theater Hamburg (Kunst-H),Public,www.hfmt-hamburg.de,hfmt-hamburg.de,[],False
+351,Bayern,Technische Universität Nürnberg,Public,www.utn.de,utn.de,[],False
+349,Baden-Württemberg,U Mannheim,Public,www.uni-mannheim.de,uni-mannheim.de,[],False
+353,Berlin,German International University Berlin (U),Private,www.giu-berlin.de,giu-berlin.de,[],False
+352,Berlin,Charité - Universitätsmedizin Berlin,Public,www.charite.de,charite.de,[],False
+355,Hessen,"H der Deutschen Gesetzl. Unfallversicherung, Bad Hersfeld (FH)",Private,www.dguv.de,dguv.de,[],False
+356,Hessen,Promotionszentrum Soziale Arbeit,Public,www.promotionszentrum-soziale-arbeit.de,promotionszentrum-soziale-arbeit.de,[],False
+358,Sachsen,Hochschule für Telekommunikation Leipzig (FH),Private,www.hft-leipzig.de,hft-leipzig.de,[],False
+354,Rheinland-Pfalz,Theol. H Vallendar (Theol. H),Private,www.pthv.de,pthv.de,[],False
+357,Hessen,Promotionszentrum Angewandte Informatik,Public,pzai.de,pzai.de,[],False
+359,Sachsen,SRH Berlin University of Applied Sciences in Dresden (FH),Private,www.srh-campus-dresden.de,srh-campus-dresden.de,[],False
+362,Hessen,Akademie für Tonkunst Darmstadt,Public,www.akademie-fuer-tonkunst.de,akademie-fuer-tonkunst.de,[],False
+360,Hamburg,Berufsakademie Hamburg (BA),Private,www.ba-hamburg.de,ba-hamburg.de,[],False
+361,Hamburg,"Berufsakademie Nord GmbH, University of Cooperative Education Hamburg (BA)",Private,Studieren-ba-nord.de,Studieren-ba-nord.de,[],False
+363,Hessen,Berufsakademie Rhein-Main Rödermark (BA),Private,studenten.ba-rm.de,ba-rm.de,[],False
+367,Hessen,Europäische Studienakademie Kälte-Klima-Lüftung (ESaK) Maintal (BA),Private,www.esak.de,esak.de,[],False
+369,Hessen,"Intern. Berufsakademie der F+U Unternehmensgruppe Darmstadt (iba), Studienort Berlin ()",Private,www.ibadual.com,ibadual.com,[],False
+366,Hessen,Dr. Hoch's Konservatorium - Musikakademie Frankfurt am Main,Public,www.dr-hochs.de,dr-hochs.de,[],False
+346,Berlin,Steinbeis-H Berlin (U),Private,www.steinbeis-hochschule.de,steinbeis-hochschule.de,['20.56.148.105'],True
+371,Hessen,Wiesbadener Musikakademie (WMA),Public,www.wma-wiesbaden.de,wma-wiesbaden.de,[],False
+372,Niedersachsen,Berufsakademie Holztechnik Melle (BA),Private,www.ba-melle.de,ba-melle.de,[],False
+288,Nordrhein-Westfalen,FH der Diakonie Bielefeld-Bethel (FH),Private,www.fh-diakonie.de,fh-diakonie.de,[],False
+370,Hessen,Berufsakademie Fulda,Private,www.ba-fulda.de,ba-fulda.de,[],False
+373,Niedersachsen,"Berufsakademie für Bankwirtschaft Hannover-Rastede, Studienort Hannover (BA)",Private,www.ba-bankwirtschaft.de,ba-bankwirtschaft.de,[],False
+364,Hessen,Brüder-Grimm-Berufsakademie Hanau (BA),Private,www.bg-ba.de,bg-ba.de,[],False
+374,Niedersachsen,Berufsakademie für IT und Wirtschaft Oldenburg (BA),Private,www.ibs-ol.de,ibs-ol.de,[],False
+378,Niedersachsen,Berufsakademie Wilhelmshaven (BA),Private,Berufsakademie-wilhelmshaven.de,Berufsakademie-wilhelmshaven.de,[],False
+368,Hessen,"Hessische Berufsakademie Frankfurt, Studienort Frankfurt (BA)",Private,www.hessische-ba.de,hessische-ba.de,[],False
+380,Saarland,"BA GSS - Berufsakademie für Gesundheits- und Sozialwesen Saarland gGmbH, Saarbrücken (BA)",Private,www.shg-kliniken.de,shg-kliniken.de,[],False
+379,Saarland,ASW - Berufsakademie Saarland Neunkirchen (BA),Private,www.asw-berufsakademie.de,asw-berufsakademie.de,[],False
+382,Saarland,"Berufsakademie Heimerer GmbH, Quierschied (BA)",Private,www.heimerer.de,heimerer.de,[],False
+365,Hessen,Deutsche Berufsakademie Sport und Gesundheit (dba) in Baunatal (BA),Private,www.dba-baunatal.de,dba-baunatal.de,[],False
+377,Niedersachsen,Berufsakademie Welfenakademie Braunschweig (BA),Private,welfenakademie.de,welfenakademie.de,[],False
+381,Saarland,"ISBA gGmbH - Internationale Studien- und Berufsakademie, Saarbrücken (BA)",Private,www.isba-studium.de,isba-studium.de,[],False
+385,Sachsen,"Berufsakademie Sachsen - Staatliche Studienakademie, Studienort Dresden",Public,www.ba-dresden.de,ba-dresden.de,[],False
+388,Sachsen,"Berufsakademie Sachsen - Staatliche Studienakademie, Studienort Riesa",Public,www.ba-riesa.de,ba-riesa.de,[],
+384,Sachsen,"Berufsakademie Sachsen - Staatliche Studienakademie, Studienort Breitenbrunn",Public,www.ba-breitenbrunn.de,ba-breitenbrunn.de,[],False
+391,Hamburg,Norddeutsche Akademie für Finanzen und Steuerrecht,Public,www.hamburg.de,hamburg.de,[],False
+390,Niedersachsen,PFH - Private Hochschule Göttingen,Private,www.pfh.de,pfh.de,[],False
+392,Baden-Württemberg,Hochschule für Kirchenmusik der Evangelischen Landeskirche in Baden,Private,www.hfk-heidelberg.de,hfk-heidelberg.de,[],False
+386,Sachsen,"Berufsakademie Sachsen - Staatliche Studienakademie, Studienort Glauchau",Public,www.ba-glauchau.de,ba-glauchau.de,[],False
+393,Niedersachsen,Polizeiakademie Niedersachsen,Public,www.pa.polizei-nds.de,polizei-nds.de,[],False
+395,Rheinland-Pfalz,Hochschule der Polizei Rheinland-Pfalz,Public,www.polizei.rlp.de,rlp.de,[],False
+376,Niedersachsen,Berufsakademie Lüneburg (BA),Private,www.vwa-lueneburg.de,vwa-lueneburg.de,[],False
+398,Sachsen,Hochschule der Sächsischen Polizei (FH),Public,www.polizei.sachsen.de,sachsen.de,[],False
+399,Baden-Württemberg,Hochschule für Kirchenmusik der Evangelischen Landeskirche in Württemberg,Private,www.kirchenmusikhochschule.de,kirchenmusikhochschule.de,[],False
+389,Sachsen,"Berufsakademie Sachsen - Staatliche Studienakademie, Studienort Plauen",Public,www.ba-plauen.de,ba-plauen.de,[],False
+396,Baden-Württemberg,Hochschule für Kirchenmusik der Diözese Rottenburg-Stuttgart,Private,www.kirchenmusik-hochschule.org,kirchenmusik-hochschule.org,[],False
+383,Sachsen,"Berufsakademie Sachsen - Staatliche Studienakademie, Studienort Bautzen",Public,www.ba-bautzen.de,ba-bautzen.de,[],False
+387,Sachsen,"Berufsakademie Sachsen - Staatliche Studienakademie, Studienort Leipzig",Public,www.ba-leipzig.de,ba-leipzig.de,[],False
+402,Bayern,U der Bundeswehr München (FB Universitätsstudiengänge),Public,www.unibw.de,unibw.de,[],False
+397,Saarland,Fachhochschule der Verwaltung des Saarlandes,Public,www.saarland.de,saarland.de,[],False
+403,Hamburg,Helmut-Schmidt-Universität Hamburg,Public,www.hsu-hh.de,hsu-hh.de,[],False
+406,Niedersachsen,"Kommunale H für Verwaltung in Niedersachsen, Hannover (Verw-FH)",Private,www.nsi-hsvn.de,nsi-hsvn.de,[],False
+407,Rheinland-Pfalz,Hochschule der Deutschen Bundesbank Hachenburg (Verw-FH),Public,www.hochschule-bundesbank.de,hochschule-bundesbank.de,[],False
+408,Baden-Württemberg,Hochschule der Bundesagentur für Arbeit in Mannheim (FH),Public,www.hdba.de,hdba.de,[],False
+404,Hessen,Theologische H Ewersbach in Dietzhölztal (Theol. H),Private,Th-ewersbach.de,Th-ewersbach.de,[],False
+410,Nordrhein-Westfalen,"Deutsche Hochschule der Polizei, Münster (U)",Public,www.dhpol.de,dhpol.de,[],False
+409,Brandenburg,HMU Health and Medical University Potsdam (U),Private,www.health-and-medical-university.de,health-and-medical-university.de,[],False
+411,Bayern,H für Philosophie München (Theol. H),Private,www.hfph.de,hfph.de,[],False
+400,Rheinland-Pfalz,Vinzenz Pallotti University,Private,vp-uni.de,vp-uni.de,[],False
+401,Baden-Württemberg,H für jüdische Studien Heidelberg (U),Private,www.hfjs.eu,hfjs.eu,[],False
+375,Niedersachsen,Berufsakademie Göttingen (BA),Private,www.vwa-goettingen.de,vwa-goettingen.de,[],False
+412,Bayern,Augustana-H Neuendettelsau (Theol. H),Private,www.augustana.de,augustana.de,[],False
+413,Hessen,Phil.-Theol. H Frankfurt a.M. (Theol. H),Private,www.sankt-georgen.de,sankt-georgen.de,[],False
+394,Nordrhein-Westfalen,Hochschule für Finanzen NRW,Public,www.finanzverwaltung.nrw.de,nrw.de,[],False
+405,Baden-Württemberg,Internationale Hochschule Liebenzell (FH),Private,Www.ihl.eu,ihl.eu,[],False
+414,Hessen,Theol. Fakultät Fulda (Theol. H),Private,www.thf-fulda.de,thf-fulda.de,[],False
+415,Hessen,Freie Theologische H (FTH) Gießen (Theol. H),Private,Www.fthgiessen.de,fthgiessen.de,[],False
+416,Baden-Württemberg,PH Freiburg i.Br.,Public,www.ph-freiburg.de,ph-freiburg.de,[],False
+422,Nordrhein-Westfalen,H für Kirchenmusik Herford-Witten (Theol. H),Private,www.hochschule-kirchenmusik.de,hochschule-kirchenmusik.de,[],False
+420,Baden-Württemberg,PH Schwäbisch Gmünd,Public,www.ph-gmuend.de,ph-gmuend.de,[],False
+421,Baden-Württemberg,PH Weingarten,Public,www.ph-weingarten.de,ph-weingarten.de,[],False
+419,Baden-Württemberg,PH Ludwigsburg,Public,www.ph-ludwigsburg.de,ph-ludwigsburg.de,[],False
+423,Nordrhein-Westfalen,Phil.-Theol. H Münster (Theol. H),Private,www.pth-muenster.de,pth-muenster.de,[],False
+425,Nordrhein-Westfalen,Kölner H für Katholische Theologie (Theol. H),Private,www.khkt.de,khkt.de,[],False
+418,Baden-Württemberg,PH Karlsruhe,Public,www.ph-karlsruhe.de,ph-karlsruhe.de,[],False
+426,Baden-Württemberg,Duale Hochschule Baden-Württemberg,Public,www.dhbw.de,dhbw.de,[],False
+429,Hamburg,MSH Medical School Hamburg (FH),Private,www.medicalschool-hamburg.de,medicalschool-hamburg.de,[],False
+427,Baden-Württemberg,AKAD Hochschule Stuttgart (Fern-FH),Private,www.akad.de,akad.de,[],False
+430,Hessen,Hochschule Geisenheim University (FH),Public,www.hs-geisenheim.de,hs-geisenheim.de,[],False
+428,Hamburg,Berufliche Hochschule Hamburg (FH),Public,bhh.hamburg.de,hamburg.de,[],False
+424,Nordrhein-Westfalen,Theol. Fakultät Paderborn (Theol. H),Private,www.thf-paderborn.de,thf-paderborn.de,[],False
+432,Thüringen,Duale Hochschule Gera-Eisenach in Eisenach (FH),Public,www.dhge.de,dhge.de,[],False
+436,Niedersachsen,Medizinische H Hannover (U),Public,www.mhh.de,mhh.de,[],False
+434,Sachsen-Anhalt,Theol. H Friedensau (Theol. H),Private,www.thh-friedensau.de,thh-friedensau.de,[],False
+433,Sachsen,Hochschule Meißen (FH) und Fortbildungszentrum (Verw-FH),Public,www.hsf.sachsen.de,sachsen.de,[],False
+437,Nordrhein-Westfalen,U Duisburg-Essen,Public,www.uni-due.org,uni-due.org,[],False
+435,Berlin,"Europ. School of Management and Technology, Berlin (U)",Private,esmt.berlin,esmt.berlin,[],False
+438,Rheinland-Pfalz,TU Kaiserslautern,Public,rptu.de,rptu.de,[],False
+439,Bayern,H für Musik und Theater München (Kunst-H),Public,www.hmtm.de,hmtm.de,[],False
+431,Hessen,Wilhelm Büchner Hochschule Darmstadt (Fern-FH),Private,www.wb-fernstudium.de,wb-fernstudium.de,[],False
+442,Baden-Württemberg,SRH Hochschule Heidelberg (FH),Private,www.srh-hochschule-heidelberg.de,srh-hochschule-heidelberg.de,[],False
+441,Baden-Württemberg,Technische Hochschule Ulm (FH),Public,studium.hs-ulm.de,hs-ulm.de,[],False
+444,Brandenburg,FH für Finanzen Brandenburg Königs Wusterhausen (Verw-FH),Public,fhf.brandenburg.de,brandenburg.de,[],False
+445,Hessen,Luth.-Theologische H Oberursel (Theol. H),Private,lthh.de,lthh.de,[],False
+440,Saarland,Hochschule für Musik Saarbrücken (Kunst-H),Public,www.hfmsaar.de,hfmsaar.de,[],False
+447,Thüringen,IU Internationale Hochschule Erfurt in Mannheim (FH),Private,www.iu.de,iu.de,[],False
+449,Nordrhein-Westfalen,International School of Management Dortmund in Stuttgart (FH),Private,www.ism.de,ism.de,[],False
+452,Berlin,VICTORIA - Internationale Hochschule Berlin in Baden Baden (FH),Private,www.victoria-hochschule.de,victoria-hochschule.de,[],False
+443,Bayern,H für angewandte Wissenschaften Würzburg-Schweinfurt in Schweinfurt (FH),Public,www.thws.de,thws.de,[],False
+454,Nordrhein-Westfalen,FH des Mittelstandes (FHM) in Bamberg (FH),Private,www.fh-mittelstand.de,fh-mittelstand.de,[],False
+456,Brandenburg,HSD Hochschule Döpfer Köln in Regensburg (FH),Private,www.hs-doepfer.de,hs-doepfer.de,[],False
+453,Berlin,Mediadesign Hochschule Berlin in München (FH),Private,www.mediadesign.de,mediadesign.de,[],False
+457,Nordrhein-Westfalen,Europäische FH (EUFH) in Rostock (FH),Private,www.eufh.de,eufh.de,[],False
+458,Nordrhein-Westfalen,"Hochschule des Bundes für öffentliche Verwaltung, FB Bundeswehrverwaltung in Mannheim",Public,www.hsbund.de,hsbund.de,[],False
+451,Berlin,IB Hochschule für Gesundheit und Soziales Berlin in Stuttgart (FH),Private,www.ib-hochschule.de,ib-hochschule.de,[],False
+417,Baden-Württemberg,PH Heidelberg,Public,www.ph-heidelberg.de,ph-heidelberg.de,[],False
+450,Brandenburg,EU European University of Applied Sciences in Mannheim (FH),Private,www.ue-germany.com,ue-germany.com,[],False
+455,Berlin,Deutsche Hochschule für Gesundheit und Sport Berlin in Ismaning (FH),Private,www.dhgs-hochschule.de,dhgs-hochschule.de,[],False
+448,Nordrhein-Westfalen,H für Ökonomie und Management Essen,Private,www.fom.de,fom.de,[],False
+446,Rheinland-Pfalz,Theol. Fakultät Trier (Theol. H),Private,Theologie-trier.de,Theologie-trier.de,[],False
