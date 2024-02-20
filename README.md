@@ -29,7 +29,7 @@ Overall, this methodology ensured that the German HEIs dataset contains accurate
 
 This data is available under the Creative Commons Zero (CC0) license and can be used for academic research purposes. We encourage the sharing of knowledge and the advancement of research in this field by adhering to open science principles [2].
 
-If you use this data in your research, please cite the source and include a link to this repository. To properly attribute this data, please use the following DOI: **10.5281/zenodo.8059076**
+If you use this data in your research, please cite the source and include a link to this repository. To properly attribute this data, please use the following DOI: 
 
 ## Contribution
 
@@ -37,9 +37,7 @@ If you have any updates or corrections to the data, please feel free to open a p
 
 ## Acknowledgment
 
-We would like to acknowledge the support of the German Rectors' Conference (Hochschulrektorenkonferenz – HRK) for publishing the information used in this dataset.
 
-We would like to acknowledge the support of the Norte Portugal Regional Operational Programme (NORTE 2020), under the PORTUGAL 2020 Partnership Agreement, through the European Regional Development Fund (ERDF), within the project "Cybers SeC IP" (NORTE-01-0145-FEDER-000044). This study was also developed as part of the Master in Cybersecurity Program at the Polytechnic University of Viana do Castelo, Portugal.
 
 ## References
 
