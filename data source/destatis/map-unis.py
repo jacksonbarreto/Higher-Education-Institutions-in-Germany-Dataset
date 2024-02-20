@@ -1,6 +1,6 @@
 ###
 #
-# Author: Sebastian Neef (@gehaxelt) from TU Berlin, Germany, 2022
+
 #
 ###
 import csv
