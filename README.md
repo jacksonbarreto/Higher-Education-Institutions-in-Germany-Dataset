@@ -1,4 +1,4 @@
-# Higher Education Institutions in Germany Dataset
+# Higher Education Institutions in Germany Dataset 2023
 
 This repository contains a dataset of higher education institutions in Germany.  This includes 458 higher education institutions in Germany, including universities, universities of applied sciences, colleges of art and music, colleges of public administration, theological universities, and colleges of education.
 This dataset was compiled in response to a cybersecurity investigation of German higher education institutions' websites [1]. The data is being made publicly available to promote open science principles [2].
